@@ -1,0 +1,14 @@
+{% extends "layout.html" %}
+
+{% block title %}Stocks{% endblock title %}
+
+{% block content %}
+<div class="cards">
+
+{% for stock in stocks %}
+	<div class="card">
+    <header style="text-align: center; vertical-align: middle;"><a href="{% url 'equities:financial_history' ticker=stock.ticker %}">{{ stock.ticker }}</p></header>
+    </div>
+{% endfor %}
+</div>
+{% endblock %}

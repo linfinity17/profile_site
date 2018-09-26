@@ -1,0 +1,51 @@
+{% extends "layout.html" %}
+{% load static from staticfiles %}
+
+
+{% block title %} Stock Price Data {% endblock %}
+
+
+
+{% block content %}
+	<form action='' method='POST'>
+	{{form.as_p}}
+	{% csrf_token %}
+	<input type='submit'>
+	</form>
+
+{% if records %}
+<table id="record_table" border = 1>
+	<col width="200">
+	<col width="150">
+	<col width="150">
+	<col width="150">
+	<col width="150">
+	<col width="150">
+	<tr>
+		<th>Date</th>
+		<th>Open</th>
+		<th>High</th>
+		<th>Low</th>
+		<th>Close</th>
+		<th>Volume</th>
+
+	{% for record in records %}
+	<tr>
+		<th> {{record.tran_date}} </th>
+		<td style="text-align: center; vertical-align: middle;"> {{record.price_open}} </td>
+		<td style="text-align: center; vertical-align: middle;"> {{record.price_high}} </td>
+		<td style="text-align: center; vertical-align: middle;"> {{record.price_low}} </td>
+		<td style="text-align: center; vertical-align: middle;"> {{record.price_close}} </td>
+		<td style="text-align: center; vertical-align: middle;"> {{record.volume}} </td>
+	</tr>
+	{% endfor %}
+</table>
+{% endif %}
+	
+<script type="text/javascript" src="http://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script>	
+	$(document).ready(function(){
+	});
+</script> 
+{% endblock %}
+

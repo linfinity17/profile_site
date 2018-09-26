@@ -1,0 +1,68 @@
+{% extends "layout.html" %}
+{% load equities_extras %}
+
+
+{% block title %}Stocks{% endblock title %}
+
+{% block content %}
+    <table>
+    <col width = '200'>
+        {% for item in date_list %}
+            <col width = '200'>
+        {% endfor %}
+        <tr>
+            <th></th>
+            {% for item in date_list %}
+                <th>{{item}}</th>
+            {% endfor %}
+        </tr>
+        
+        {% for attr in is_attr_list %}
+        <tr>
+            <td>{{attr}}</td> 
+            {% data_table attr ticker 'IS' %}
+        </tr>
+        {% endfor %}
+    </table>
+ 
+    <table>
+    <col width = '200'>
+        {% for item in date_list %}
+            <col width = '200'>
+        {% endfor %}
+        <tr>
+            <th></th>
+            {% for item in date_list %}
+                <th>{{item}}</th>
+            {% endfor %}
+        </tr>
+        
+        {% for attr in bs_attr_list %}
+        <tr>
+            <td>{{attr}}</td> 
+            {% data_table attr ticker 'BS' %}
+        </tr>
+        {% endfor %}
+    </table>
+
+    <table>
+    <col width = '200'>
+        {% for item in date_list %}
+            <col width = '200'>
+        {% endfor %}
+        <tr>
+            <th></th>
+            {% for item in date_list %}
+                <th>{{item}}</th>
+            {% endfor %}
+        </tr>
+    
+        {% for attr in fr_attr_list %}
+        <tr>
+            <td>{{attr}}</td> 
+            {% data_table attr ticker 'FR' %}
+        </tr>
+        {% endfor %}
+    </table>
+
+{% endblock content %} 

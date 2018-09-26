@@ -1,0 +1,21 @@
+{% load static from staticfiles %}
+
+<!doctype html>
+<html>
+    <head>
+        <title>{% block title %}{% endblock %}</title>
+        <link rel="stylesheet" href="{% static 'css/layout.css' %}">
+    </head>
+    <body>
+        <div class="site-container">
+            <nav>
+                <a href="{% url 'equities:stock_list' %}">Stock Select</a>
+                <a href="{% url 'equities:price_data' %}">Historical Data</a>
+            </nav>
+        {% block content %}{% endblock %}
+        </div>
+    </body>
+    <footer class="main-nav">
+        
+    </footer>
+</html>
