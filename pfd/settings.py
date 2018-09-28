@@ -13,7 +13,7 @@ https://docs.djangoproject.com/en/2.1/ref/settings/
 import os
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
-BASE_DIR = "linumerable.pythonanywhere.com/"
+BASE_DIR = "philippinefinancialdata.pythonanywhere.com/"
 
 
 # Quick-start development settings - unsuitable for production
@@ -25,7 +25,7 @@ SECRET_KEY = '-$wrf8yc$40p60h8yzd!th)gpa18sax=$kpun9$0vxh8%4bqcp'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['linumerable.pythonanywhere.com']
+ALLOWED_HOSTS = ['philippinefinancialdata.pythonanywhere.com']
 
 
 # Application definition
@@ -127,7 +127,3 @@ EMAIL_BACKEND = 'django.core.mail.backends.filebased.EmailBackend'
 EMAIL_FILE_PATH = os.path.join(BASE_DIR,'suggestions')
 
 INTERNAL_IPS = ['127.0.0.1']
-
-MEDIA_URL = '/media/'
-STATIC_ROOT = os.path.join(BASE_DIR, 'static')
-MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
