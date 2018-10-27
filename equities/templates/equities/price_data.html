@@ -7,12 +7,15 @@
 
 
 {% block content %}
-	<form action='' method='POST'>
-	{{form.as_p}}
-	{% csrf_token %}
-	<input type='submit'>
-	</form>
+	<div id="date_selector">
+		<form action='' method='POST'>
+		{{form.as_p}}
+		{% csrf_token %}
+		<input type='submit' class='submit'>
+		</form>
+	</div>
 
+<div id="records">
 {% if records %}
 <table id="record_table" border = 1>
 	<col width="200">
@@ -41,11 +44,7 @@
 	{% endfor %}
 </table>
 {% endif %}
-	
-<script type="text/javascript" src="http://code.jquery.com/jquery-3.3.1.min.js"></script>
-<script>	
-	$(document).ready(function(){
-	});
-</script> 
+</div>
+
 {% endblock %}
 

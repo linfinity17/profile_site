@@ -1,21 +1,26 @@
-{% load static from staticfiles %}
-
 <!doctype html>
 <html>
+{% load static from staticfiles %}
     <head>
         <title>{% block title %}{% endblock %}</title>
         <link rel="stylesheet" href="{% static 'css/layout.css' %}">
     </head>
-    <body>
-        <div class="site-container">
-            <nav>
-                <a href="{% url 'equities:stock_list' %}">Stock Select</a>
-                <a href="{% url 'equities:price_data' %}">Historical Data</a>
-            </nav>
-        {% block content %}{% endblock %}
+    <body style="font-family:sans-serif;">
+        <div class="main_container">
+            <div class="main-nav">
+                <ul class="nav">
+                  <li class="name"><a id="main_header" href="#">Philippine Financial Data</a></li>
+                  <li><a id="stock_list" href="{% url 'equities:stock_list' %}">Stock Select</a></li>
+                  <li><a id="price_data" href="{% url 'equities:price_data' %}">Historical Data</a></li>
+                </ul>
+            </div>
+            <div class="content-container">
+                {% block content %}{% endblock %}
+            </div>
+            <div class="footer_nav">
+            </div>
         </div>
     </body>
-    <footer class="main-nav">
-        
+    <footer>
     </footer>
 </html>
