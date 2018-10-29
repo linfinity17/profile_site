@@ -3,13 +3,15 @@
 {% load static from staticfiles %}
     <head>
         <title>{% block title %}{% endblock %}</title>
+        <link rel="stylesheet" href="{% static 'css/normalize.css' %}">
         <link rel="stylesheet" href="{% static 'css/layout.css' %}">
+        <link rel="stylesheet" href="{% static 'css/grid.css' %}">
     </head>
-    <body style="font-family:sans-serif;">
+    <body>
         <div class="main_container">
             <div class="main-nav">
                 <ul class="nav">
-                  <li class="name"><a id="main_header" href="#">Philippine Financial Data</a></li>
+                  <li class="name"><a id="main_header" href="{% url 'home' %}">Philippine Financial Data</a></li>
                   <li><a id="stock_list" href="{% url 'equities:stock_list' %}">Stock Select</a></li>
                   <li><a id="price_data" href="{% url 'equities:price_data' %}">Historical Data</a></li>
                 </ul>
