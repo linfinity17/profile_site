@@ -25,21 +25,21 @@
 	<col width="150">
 	<col width="150">
 	<tr>
-		<th>Date</th>
-		<th>Open</th>
-		<th>High</th>
-		<th>Low</th>
-		<th>Close</th>
-		<th>Volume</th>
+		<th class="tran_date">Date</th>
+		<th class="price_open">Open</th>
+		<th class="price_high">High</th>
+		<th class="price_low">Low</th>
+		<th class="price_close">Close</th>
+		<th class="volume">Volume</th>
 
 	{% for record in records %}
 	<tr>
-		<th> {{record.tran_date}} </th>
-		<td style="text-align: center; vertical-align: middle;"> {{record.price_open}} </td>
-		<td style="text-align: center; vertical-align: middle;"> {{record.price_high}} </td>
-		<td style="text-align: center; vertical-align: middle;"> {{record.price_low}} </td>
-		<td style="text-align: center; vertical-align: middle;"> {{record.price_close}} </td>
-		<td style="text-align: center; vertical-align: middle;"> {{record.volume}} </td>
+		<th class="tran_date"> {{record.tran_date}} </th>
+		<td class="price_open"> {{record.price_open}} </td>
+		<td class="price_high"> {{record.price_high}} </td>
+		<td class="price_low"> {{record.price_low}} </td>
+		<td class="price_close"> {{record.price_close}} </td>
+		<td class="volume"> {{record.volume}} </td>
 	</tr>
 	{% endfor %}
 </table>
