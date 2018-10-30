@@ -65,7 +65,8 @@ input {
 
 #record_table {
 	border-collapse: collapse;
-	width: 600px;
+	min-width: 300px;
+	max-width: 600px;
 	white-space: nowrap;
 	transform-origin: top left;
 }
@@ -73,7 +74,7 @@ input {
 
 .footer_nav {
 	width: 100%;
-	height: 50px;
+	height: 100%;
 	background: #343a40;
 }
 
@@ -81,7 +82,7 @@ input {
 
 .main-nav {
 	width: 100%;
-	height: 50px;
+	height: 100%;
 	text-align: center;
 	background-color:#343a40;
 }
@@ -120,6 +121,11 @@ input {
 	color: white
 }
 
+.tran_date,.price_open,.price_high,.price_low,.price_close,.volume{
+	text-align: center; 
+	vertical-align: middle;
+}
+
 @media (max-width: 768px) {
 	.nav {
 		display: none;
@@ -132,4 +138,13 @@ input {
 	#records {
 		float:none;
 	}
+
+	.volume {
+		display: none;
+	}
 }
+
+@media (max-width: 640px) {
+	.price_high,.price_low {
+		display: none;
+	}
