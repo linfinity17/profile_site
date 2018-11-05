@@ -3,6 +3,7 @@
 {% load static from staticfiles %}
     <head>
         <title>{% block title %}{% endblock %}</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="{% static 'css/normalize.css' %}">
         <link rel="stylesheet" href="{% static 'css/layout.css' %}">
         <link rel="stylesheet" href="{% static 'css/grid.css' %}">
@@ -25,4 +26,9 @@
     </body>
     <footer>
     </footer>
+    <div class='burger' onclick="document.getElementsByClassName('nav')[0].classList.toggle('toggle_nav');">
+        <div class='menu-icon'></div>
+        <div class='menu-icon'></div>
+        <div class='menu-icon'></div>
+    </div>
 </html>

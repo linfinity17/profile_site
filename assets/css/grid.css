@@ -3,7 +3,7 @@
 ======================================== */
 
 .main_container {
-  height: 100vh;
+  min-height: 100vh;
   display: grid;
   grid-template-columns: 1fr;
   grid-template-rows: 50px 1fr 50px;
@@ -20,22 +20,25 @@
 
 .content-container {
   grid-area: main;
-  padding: 0.85em;
+  padding: 2em;
 }
 
 .footer_nav {
   grid-area: footer;
 }
 
+@media (max-width: 768px) {
 
-@media (min-width: 768px) {
-  .container {
-    grid-template-columns: 1fr 2fr 1fr;
-    grid-template-rows: 100px minmax(150px, auto) 100px;
-    grid-template-areas: 
-      "header header header"
-      "main main main"
-      "footer footer footer";
+  .main_container {
+    grid-template-rows: minmax(50px,auto) 1fr 50px;
   }
+
+/* display toggles */
+  .toggle_nav {
+    display: block;
+  }
+
 }
+
+
 
