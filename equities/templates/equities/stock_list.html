@@ -3,7 +3,7 @@
 {% block content %}
 <ul id="stock_list">
 {% for stock in stocks %}
-    <li><a style="color:black" href="{% url 'equities:financial_history' ticker=stock.ticker %}">{{ stock.ticker }}</a></li>
+    <li><a style="color:black" href="{% url 'equities:financial_history' ticker=stock.ticker %}">{{ stock.name }}</a></li>
 {% endfor %}
 </ul>
 {% endblock %}

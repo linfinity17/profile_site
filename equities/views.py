@@ -4,14 +4,14 @@ from django.contrib import messages
 from django.core.mail import send_mail
 from django.urls import reverse
 from django.http import HttpResponseRedirect
-from . import forms 
+from . import forms
 
-from equities import models, forms 
+from equities import models, forms
 # Create your views here.
 
 def stock_list(request):
-	stocks = models.IncomeStatementRecord.objects.values('ticker').distinct()
-	return render(request,'equities/stock_list.html', {'stocks':stocks}) 
+	stocks = models.Stock.objects.all().order_by('name')
+	return render(request,'equities/stock_list.html', {'stocks':stocks})
 
 def financial_history(request,ticker):
 	income_statement = models.IncomeStatementRecord.objects.filter(ticker=ticker.upper()).order_by('date')
@@ -29,7 +29,7 @@ def financial_history(request,ticker):
 	date_list = []
 	for item in income_statement:
 		date_list.append(item.date)
-	return render(request,'equities/financial_history.html', 
+	return render(request,'equities/financial_history.html',
 		{
 		'income_statement':income_statement,
 		'ticker':ticker,
@@ -37,7 +37,7 @@ def financial_history(request,ticker):
 		'is_attr_list':is_attr_list[6:],
 		'bs_attr_list':bs_attr_list[4:],
 		'fr_attr_list':fr_attr_list[4:],
-		}) 
+		})
 
 def price_data(request):
 	form = forms.InquiryForm()
@@ -49,7 +49,7 @@ def price_data(request):
 			ticker = form.cleaned_data['ticker']
 			start_date = form.cleaned_data['start_date']
 			end_date = form.cleaned_data['end_date']
-			records = models.Record.objects.filter(ticker=ticker.upper(),tran_date__range=[start_date,end_date])
+			records = models.Record.objects.filter(ticker=ticker.upper(),tran_date__range=[start_date,end_date]).order_by('-tran_date')
 			return render(request, 'equities/price_data.html',{'form':form, 'records':records})
 
 	return render(request, 'equities/price_data.html',{'form':form})

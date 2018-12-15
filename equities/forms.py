@@ -9,8 +9,8 @@ def must_be_empty(value):
 
 class InquiryForm(forms.Form):
 	ticker = forms.CharField()
-	start_date = forms.DateField(widget=forms.SelectDateWidget(empty_label=("Choose Year", "Choose Month", "Choose Day"),years=range(2015,2019)))
-	end_date = forms.DateField(widget=forms.SelectDateWidget(empty_label=("Choose Year", "Choose Month", "Choose Day"),years=range(2015,2019)),initial=datetime.date.today())
+	start_date = forms.DateField(widget=forms.SelectDateWidget(empty_label=("Choose Year", "Choose Month", "Choose Day"),years=range(2013,2019)))
+	end_date = forms.DateField(widget=forms.SelectDateWidget(empty_label=("Choose Year", "Choose Month", "Choose Day"),years=range(2013,2019)),initial=datetime.date.today())
 	honeypot = forms.CharField(required=False, widget=forms.HiddenInput, label="Leave empty",validators=[must_be_empty])
 
 
@@ -20,6 +20,6 @@ class InquiryForm(forms.Form):
 #		email = cleaned_data.get('email')
 #		verify = cleaned_data.get('verify_email')
 #
-#		if email != verify: 
+#		if email != verify:
 #			raise forms.ValidationError('You need to enter the same email in both fields.')
 #
