@@ -34,6 +34,105 @@ select{
 	font-size: 80%;
 }
 
+#home_banner {
+	display: grid;
+	height: 100%;
+	width: 100%;
+	grid-template-columns: 1fr 2fr;
+	grid-template-rows: 1fr 1fr;
+	grid-gap: 0;
+	grid-template-areas: 
+	"main section1"
+	"main section2";
+}
+
+.intro {
+	grid-area: main;
+	margin-right: 0.5em;
+    background-color: white;
+    color: #222;
+    border-radius: 20px;
+    border: solid #d4d4d4 1px;
+    box-shadow: 6px 6px 5px #d4d4d4;
+    padding: 1.5em 1em;
+    font-size: 1em;
+}
+
+.intro h2 {
+	padding: 0;
+	margin: 0;
+}
+
+.intro ul {
+	margin: 2em 1em;
+	list-style: square;
+}
+
+.intro ul li {
+	margin: 1em 0em;
+	font-size: 18px;
+}
+
+.comparison {
+	grid-area: section1;
+    background-color: white;
+    color: #222;
+    border: solid #d4d4d4 1px;
+    border-radius: 20px;
+    box-shadow: 6px 6px 5px #d4d4d4;
+    padding: 1.5em 1em;
+    margin-bottom: 0.5em;
+}
+
+.comparison h2 {
+	padding: 0;
+	margin: 0;
+}
+
+.comparison ul {
+	margin: 1em 1em;
+	list-style: square;
+}
+
+.comparison ul li {
+	margin: 1em 0em;
+	font-size: 18px;
+}
+
+
+.historical {
+	grid-area: section2;
+    background-color: white;
+    color: #222;
+    border: solid #d4d4d4 1px;
+    border-radius: 20px;
+    box-shadow: 6px 6px 5px #d4d4d4;
+    padding: 1.5em 1em;
+    margin-bottom: 0.5em;
+}
+
+.historical h2 {
+	padding: 0;
+	margin: 0;
+}
+
+.historical ul {
+	margin: 1em 1em;
+	list-style: square;
+}
+
+.historical ul li {
+	margin: 1em 0em;
+	font-size: 18px;
+}
+
+#sub_list {
+	margin-top: 0em;
+}
+#sub_list li {
+	margin: 0em 0em;
+}
+
 #data_input_box {
 	width:100%;
 	min-width: 300px;
@@ -154,6 +253,12 @@ select{
 	min-width: 600px;
 }
 
+#data_container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
 #data_input_box .submit {
 	display: inline-block;
 	margin: 20px 0px; 
@@ -263,6 +368,21 @@ select{
 }
 
 @media (max-width: 768px) {
+
+	#home_banner {
+		grid-template-columns: 1fr;
+		grid-template-rows: 1fr 1fr 1fr;
+		grid-gap: 0;
+		grid-template-areas: 
+		"main"
+		"section1" 
+		"section2";
+	}
+
+	.intro, .comparison, .historical {
+		margin: 0.5em 0; 
+	}
+
 
 	#date_selector {
 		flex-direction: column;

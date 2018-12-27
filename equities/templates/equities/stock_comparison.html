@@ -15,7 +15,7 @@
 		</form>
 	</div>
 
-<div>
+<div id="data_container">
 {% if stock_list %}
 <div id=chart_container>
     <canvas id="line-chart"></canvas>
@@ -99,7 +99,7 @@ stock_5.prices = prices;
 
 
 let chart_data = [];
-const chart_colors = ["#3e95cd", "red", "green", "violet", "yellow"]
+const chart_colors = ["#4c8cb5", "#86b872","#e15a53", "#de937c", "violet"]
 let color_counter = 0;
 let initial_dates = [];
 let included_stocks = [];
@@ -149,6 +149,13 @@ if(initial_dates.every( (val, i, arr) => val === arr[0])) {
 	        xAxes: [{
 	            ticks: {
 	                maxTicksLimit: 7
+	            }
+	        }],
+	        yAxes: [{
+	            ticks: {
+	                callback: function(value, index, values) {
+                        return value + '%';
+                    }
 	            }
 	        }]
 	    }

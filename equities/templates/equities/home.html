@@ -4,6 +4,45 @@
 
 
 {% block content %}
-	<h1>Welcome!</h1>
+<div id="home_banner">
+	<div class="intro">
+		<h2>Philippine Financial Data</h2>
+		<ul> 
+			<li>PFD is a simple data aggregator / web-scraper that compiles financial information about the Philippine market and provide you with easy analysis tools.</li>
+			<li> Currently, data sources are only for stock prices from the Philippine Stock Exchange. </li>
+			<li>You can easily check historical data for all stocks and compare stock prices relative to each other to see which stocks have performed well over time. </li>
+			<li>This site is a work-in-progress. I hope to bring in more financial data types such as bond prices and government yields in the future. </li>
+		</ul>
+	</div>
+	<a href="{% url 'equities:stock_list' %}"  class="comparison"> 
+		<div>  
+			<h2>Stock Comparison</h2>
+			<ul> 
+				<li>In this section, price changes of stocks over a time period are compared side-by-side to see which stock is the best performer. </li> 
+				<li>Closing prices are indexed to 100 so you can easily see which how much a stock's price has changed over time. </li>
+				<li>TIP: Include the PSE Index (ticker:PSEI) to see how stocks perform relative to market. </li>
+			</ul>
+
+		</div>
+	</a>
+	<a href="{% url 'equities:price_data' %}"  class="historical"> 
+		<div>  
+			<h2>Historical Prices</h2>
+			<ul> 
+				<li>In this section, overall price data for one stock is displayed for a time period. </li> 
+				<li>The following price information are displayed:
+					<ul id="sub_list">
+						<li>Open</li>
+						<li>High</li>
+						<li>Low</li>
+						<li>Close</li>
+						<li>Volume</li>
+					</ul>
+				</li>
+			</ul>
+
+		</div>
+	</a>
+</div>
 
 {% endblock %}
