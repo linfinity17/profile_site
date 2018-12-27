@@ -9,6 +9,9 @@ from . import forms
 from equities import models, forms
 # Create your views here.
 
+def home(request):
+	return render(request,'equities/home.html')
+
 def stock_list(request):
 	stocks = models.Stock.objects.all().order_by('name')
 	return render(request,'equities/stock_list.html', {'stocks':stocks})
@@ -42,6 +45,7 @@ def financial_history(request,ticker):
 def price_data(request):
 	form = forms.InquiryForm()
 	request.POST._mutable = True
+	stocks = models.Stock.objects.all().order_by('name')
 	if request.method == 'POST':
 		form = forms.InquiryForm(request.POST)
 		if form.is_valid():
@@ -50,7 +54,12 @@ def price_data(request):
 			start_date = form.cleaned_data['start_date']
 			end_date = form.cleaned_data['end_date']
 			records = models.Record.objects.filter(ticker=ticker.upper(),tran_date__range=[start_date,end_date]).order_by('-tran_date')
-			return render(request, 'equities/price_data.html',{'form':form, 'records':records})
+			try: 
+				stock_name = models.Stock.objects.get(ticker=ticker.upper()).name
+			except: 
+				stock_name = ''
+			selected_stock = {'ticker':ticker.upper(), 'name': stock_name} 
+			return render(request, 'equities/price_data.html',{'form':form, 'records':records, 'stocks':stocks, 'selected_stock': selected_stock})
 
-	return render(request, 'equities/price_data.html',{'form':form})
+	return render(request, 'equities/price_data.html',{'form':form, 'stocks':stocks})
 

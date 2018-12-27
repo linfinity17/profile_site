@@ -1,4 +1,4 @@
-{% extends "layout.html" %}
+{% extends "equities/layout.html" %}
 {% load static from staticfiles %}
 
 
@@ -7,16 +7,23 @@
 
 
 {% block content %}
-	<div id="date_selector">
+	<div id="data_input_box">
 		<form action='' method='POST'>
-		{{form.as_p}}
-		{% csrf_token %}
-		<input type='submit' class='submit'>
+			<div id='date_selector'>
+				{{form.as_p}}
+			<input type='submit' class='submit'>
+			</div>
+			{% csrf_token %}
 		</form>
 	</div>
 
 <div id="records">
 {% if records %}
+<div id=chart_container>
+    <canvas id="line-chart"></canvas>
+</div>
+
+
 <table id="record_table" border = 1>
 	<col width="200">
 	<col width="150">
@@ -43,6 +50,59 @@
 	</tr>
 	{% endfor %}
 </table>
+<script>
+	let dates = [];
+	let closing_prices = [];
+	{% for record in records %}
+		dates.push('{{ record.tran_date }}');
+		closing_prices.push('{{ record.price_close }}');
+	{% endfor %}
+
+
+new Chart(document.getElementById("line-chart"), {
+  type: 'line',
+  data: {
+    labels: dates.reverse(),
+    datasets: [{ 
+        data: closing_prices.reverse(),
+        label: "{{ selected_stock.name }}",
+        borderColor: "#3e95cd",
+        fill: false
+      }
+    ]
+  },
+  options: {
+    responsive:true,
+    title: {
+      display: true,
+      text: 'Historical Closing Price'
+    },
+    elements: {
+        point: {
+            radius: 0
+        }
+    },
+    scales: {
+        xAxes: [{
+            ticks: {
+                maxTicksLimit: 7
+            }
+        }]
+    }
+  }
+});
+</script>
+{% elif selected_stock %}
+<h2> Ticker name does not exist </h2>
+<h4> Please refer to the stock list below for available options</h4>
+{% endif %}
+
+{% if not records %}
+<ul id="stock_list">
+{% for stock in stocks %}
+    <li> <b>{{ stock.ticker }}</b> - {{ stock.name }}</li>
+{% endfor %}
+</ul>
 {% endif %}
 </div>
 

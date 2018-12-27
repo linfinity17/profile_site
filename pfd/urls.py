@@ -19,14 +19,10 @@ from django.contrib.staticfiles.urls import staticfiles_urlpatterns
 from django.conf import settings
 from django.urls import include, path
 
-from . import views
-
 
 urlpatterns = [
-    path('', views.home,name='home'),
     path('equities/',include('equities.urls')),
     path('admin/', admin.site.urls),
-    path('suggest/',views.suggestion_view,name='suggestion')
 ]
 
 urlpatterns += staticfiles_urlpatterns()
