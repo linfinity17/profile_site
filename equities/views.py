@@ -36,7 +36,7 @@ def stock_list(request):
 				compared_stocks[key] = models.Record.objects.filter(ticker=item,tran_date__range=[start_date,end_date]).order_by('tran_date')
 				counter	+= 1
 
-			return render(request, 'equities/stock_list.html',{
+			return render(request, 'equities/stock_comparison.html',{
 				'form':form,
 				'stocks':stocks,
 				'stock_list':stock_list, 
@@ -47,7 +47,7 @@ def stock_list(request):
 				'stock_5':compared_stocks['stock_5'],
 				})
 
-	return render(request, 'equities/stock_list.html',{'form':form, 'stocks':stocks})
+	return render(request, 'equities/stock_comparison.html',{'form':form, 'stocks':stocks})
 
 
 def financial_history(request,ticker):
