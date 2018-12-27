@@ -13,8 +13,42 @@ def home(request):
 	return render(request,'equities/home.html')
 
 def stock_list(request):
+	form = forms.CompareForm()
+	request.POST._mutable = True
 	stocks = models.Stock.objects.all().order_by('name')
-	return render(request,'equities/stock_list.html', {'stocks':stocks})
+	if request.method == 'POST':
+		form = forms.CompareForm(request.POST)
+		if form.is_valid():
+			stock_list = [form.cleaned_data['stock_1'],
+				form.cleaned_data['stock_2'],
+				form.cleaned_data['stock_3'],
+				form.cleaned_data['stock_4'],
+				form.cleaned_data['stock_5']
+			]
+
+			compared_stocks = {}
+			start_date = form.cleaned_data['start_date']
+			end_date = form.cleaned_data['end_date']
+			counter = 1
+
+			for item in stock_list:
+				key = 'stock_' + str(counter)
+				compared_stocks[key] = models.Record.objects.filter(ticker=item,tran_date__range=[start_date,end_date]).order_by('tran_date')
+				counter	+= 1
+
+			return render(request, 'equities/stock_list.html',{
+				'form':form,
+				'stocks':stocks,
+				'stock_list':stock_list, 
+				'stock_1':compared_stocks['stock_1'],
+				'stock_2':compared_stocks['stock_2'],
+				'stock_3':compared_stocks['stock_3'],
+				'stock_4':compared_stocks['stock_4'],
+				'stock_5':compared_stocks['stock_5'],
+				})
+
+	return render(request, 'equities/stock_list.html',{'form':form, 'stocks':stocks})
+
 
 def financial_history(request,ticker):
 	income_statement = models.IncomeStatementRecord.objects.filter(ticker=ticker.upper()).order_by('date')
