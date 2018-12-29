@@ -44,9 +44,34 @@ class Command(BaseCommand):
         											'price_close': float(df['Close'][i]),
         											'volume': float(df['Volume'][i]),
         										}
-				    )
+				)
 			    print(obj, created)
+		url = (r'https://quotes.wsj.com/index/PH/PSEI/historical-prices/download?MOD_VIEW=page&num_rows=' +
+					str(rows) +
+					'&range_days=' +
+					str(rows) +
+					'&startDate=' +
+					str(start) +
+					'&endDate=' +
+					str(today)
+				)
+		with requests.Session() as s:
+		    download = s.get(url)
+		    decoded_content = download.content.decode('ISO-8859-1')
+		    cr = csv.reader(decoded_content.splitlines(), delimiter=',')
+		    df = pandas.DataFrame(list(cr))
+		    df.columns = df.iloc[0].str.strip()
+		    df = df.drop([0])
 
-
-
-
+		for i in range(1, len(df)+1):
+		    obj,created = models.Record.objects.update_or_create(ticker='PSEI',
+        									tran_date= datetime.datetime.strptime(df['Date'][i],'%m/%d/%y'),
+        										defaults={
+        											'price_open': float(df['Open'][i]),
+        											'price_high': float(df['High'][i]),
+        											'price_low': float(df['Low'][i]),
+        											'price_close': float(df['Close'][i]),
+        											'volume': 0,
+        										}
+				    )
+		    print(obj, created)

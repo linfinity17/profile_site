@@ -25,7 +25,7 @@ SECRET_KEY = '-$wrf8yc$40p60h8yzd!th)gpa18sax=$kpun9$0vxh8%4bqcp'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '192.168.254.101']
+ALLOWED_HOSTS = ['127.0.0.1', 'www.inumerable.com', 'inumerable.pythonanywhere.com']
 
 
 # Application definition
@@ -130,4 +130,8 @@ EMAIL_FILE_PATH = os.path.join(BASE_DIR,'suggestions')
 INTERNAL_IPS = ['127.0.0.1']
 
 MEDIA_URL = '/media/'
+MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
+
+MEDIA_URL = '/media/'
+STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
