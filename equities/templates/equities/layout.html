@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+{% load static from staticfiles %}
+    <head>
+        <title>{% block title %}{% endblock %}</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="{% static 'equities/css/normalize.css' %}">
+        <link rel="stylesheet" href="{% static 'equities/css/layout.css' %}">
+        <link rel="stylesheet" href="{% static 'equities/css/grid.css' %}">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.3/Chart.min.js"></script>
+    </head>
+    <body>
+        <div class="main_container">
+            <div class="main-nav">
+                <ul class="nav">
+                  <li class="name"><a id="main_header" href="{% url 'equities:home' %}">Philippine Financial Data</a></li>
+                  <li><a href="{% url 'equities:stock_list' %}">Stock Comparison</a></li>
+                  <li><a href="{% url 'equities:price_data' %}">Historical Data</a></li>
+                </ul>
+            </div>
+            <div class="content-container">
+                {% block content %}{% endblock %}
+            </div>
+            <div class="footer_nav">
+            </div>
+        </div>
+    </body>
+    <footer>
+    </footer>
+    <div class='burger' onclick="document.getElementsByClassName('nav')[0].classList.toggle('toggle_nav');">
+        <div class='menu-icon'></div>
+        <div class='menu-icon'></div>
+        <div class='menu-icon'></div>
+    </div>
+</html>
