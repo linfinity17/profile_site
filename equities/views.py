@@ -6,8 +6,10 @@ from django.urls import reverse
 from django.http import HttpResponseRedirect
 from . import forms
 
+
 from equities import models, forms
 # Create your views here.
+
 
 def home(request):
 	return render(request,'equities/home.html')
