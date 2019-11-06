@@ -1,0 +1,1015 @@
+映画,movie,映画[えいが],3,n,,,,,,,,,あの…,um...,あの…,1
+音楽,music,音楽[おんがく],3,n,,,,,,,,,今,now,今[いま],1
+雑誌,magazine,雑誌[ざっし],3,n,,,,,,,,,英語,English (language),英語[えいご],1
+スポーツ,sports,スポーツ,3,n,,,,,,,,,学生,student,学生[がくせい],1
+デート,"date (romantic, not calendar)",デート,3,n,,,,,,,,,〜語,language,〜 語[ご],1
+テニス,tennis,テニス,3,n,,,,,,,,,高校,high school,高校[こうこう],1
+テレビ,TV,テレビ,3,n,,,,,,,,,午後,P.M.,午後[ごご],1
+ビデオ,video tape; VCR,ビデオ,3,n,,,,,,,,,午前,A.M.,午前[ごぜん],1
+朝御飯,breakfast,朝[あさ] 御飯[ごはん],3,n,,,,,,,,,〜歳,...years old,〜 歳[さい],1
+お酒,sake; alcohol,お 酒[さけ],3,n,,,,,,,,,〜さん,Mr./Ms....,〜さん,1
+お茶,green tea,お 茶[ちゃ],3,n,,,,,,,,,〜時,o'clock,〜 時[じ],1
+コーヒー,coffee,コーヒー,3,n,,,,,,,,,〜人,~ people,〜 人[じん],1
+晩御飯,dinner,晩[ばん] 御飯[ごはん],3,n,,,,,,,,,先生,teacher; Professor ...,先生[せんせい],1
+ハンバーガー,hamburger,ハンバーガー,3,n,,,,,,,,,専門,major,専門[せんもん],1
+昼御飯,lunch,昼[ひる] 御飯[ごはん],3,n,,,,,,,,,そうです,That's right.,そうです,1
+水,water,水[みず],3,n,,,,,,,,,大学,college; university,大学[だいがく],1
+家,home; house,家[いえ],3,n,,,,,,,,,電話,telephone,電話[でんわ],1
+家（ぼくの）,home; house; my place,家[うち]（ぼくの）,3,n,,,,,,,,,友達,friend,友達[ともだち],1
+LL（エルエル）,language lab,LL（エルエル）,3,n,,,,,,,,,名前,name,名前[なまえ],1
+学校,school,学校[がっこう],3,n,,,,,,,,,何,what,何[なに],1
+朝,morning,朝[あさ],3,n,,,,,,,,,日本,Japan,日本[にっぽん],1
+あした,tomorrow,あした,3,n,,,,,,,,,〜年生,...year student,〜 年生[ねんせい],1
+いつ,when,いつ,3,n,,,,,,,,,はい,yes,はい,1
+今日,today,今日[きょう],3,n,,,,,,,,,半,half,半[はん],1
+〜ごろ,at about,〜ごろ,3,n,,,,,,,,,番号,number,番号[ばんごう],1
+今晩,tonight,今晩[こんばん],3,n,,,,,,,,,留学生,international student,留学生[りゅうがくせい],1
+週末,weekend,週末[しゅうまつ],3,n,,,,,,,,,私,I,私[わたし],1
+土曜日,Saturday,土曜日[どようび],3,n,,,,,,,,,アメリカ,U.S.A.,アメリカ,1
+日曜日,Sunday,日曜日[にちようび],3,n,,,,,,,,,イギリス,Britain,イギリス,1
+毎日,every day,毎日[まいにち],3,n,,,,,,,,,オーストラリア,Australia,オーストラリア,1
+毎晩,every night,毎晩[まいばん],3,n,,,,,,,,,韓国,Korea,韓国[かんこく],1
+行く,to go,行[い]く,3,v,,,,,,,,,スウェーデン,Sweden,スウェーデン,1
+帰る,to go back; to return,帰[かえ]る,3,v,,,,,,,,,中国,China,中国[ちゅうごく],1
+聞く,to listen; to hear; to ask,聞[き]く,3,v,,,,,,,,,科学,science,科学[かがく],1
+飲む,to drink,飲[の]む,3,v,,,,,,,,,アジア研究,Asian studies,アジア 研究[けんきゅう],1
+話す,to speak; to talk,話[はな]す,3,v,,,,,,,,,国際関係,international relations,国際[こくさい] 関係[かんけい],1
+読む,to read,読[よ]む,3,v,,,,,,,,,コンピューター,computer,コンピューター,1
+起きる,to get up,起[お]きる,3,v,,,,,,,,,人類学,anthropology,人類[じんるい] 学[がく],1
+食べる,to eat,食[た]べる,3,v,,,,,,,,,政治,politics,政治[せいじ],1
+寝る,to sleep; to go to sleep,寝[ね]る,3,v,,,,,,,,,ビジネス,business,ビジネス,1
+見る,to see; to look at; to watch,見[み]る,3,v,,,,,,,,,文学,literature,文学[ぶんがく],1
+来る,to come,来[く]る,3,v,,,,,,,,,歴史,history,歴史[れきし],1
+する,"to do; to decide on (an item); to wear small items (necktie, watch, etc.)",する,3,v,,,,,,,,,仕事,job; work; occupation,仕事[しごと],1
+勉強する,to study,勉強[べんきょう]する,3,v,,,,,,,,,医者,doctor,医者[いしゃ],1
+いい,good,いい,3,adj,,,,,,,,,会社員,office worker,会社[かいしゃ] 員[いん],1
+早い,early,早[はや]い,3,adj,,,,,,,,,高校生,high school student,高校生[こうこうせい],1
+あまり+ negative,not much,あまり+ negative,3,exp,,,,,,,,,主婦,housewife,主婦[しゅふ],1
+全然,not at all,全然[ぜんぜん],3,exp,,,,,,,,,大学院生,graduate student,大学院生[だいがくいんせい],1
+大抵,usually,大抵[たいてい],3,exp,,,,,,,,,大学生,college student,大学生[だいがくせい],1
+ちょっと,a little,ちょっと,3,exp,,,,,,,,,弁護士,lawyer,弁護士[べんごし],1
+時々,sometimes,時々[ときどき],3,exp,,,,,,,,,お母さん,mother,お 母[かあ]さん,1
+よく,often; much; well,よく,3,exp,,,,,,,,,お父さん,father,お 父[とう]さん,1
+そうですね,That's right.; Let me see.,そうですね,3,exp,,,,,,,,,お姉さん,older sister,お 姉[ねえ]さん,1
+でも,"But,...",でも,3,exp,,,,,,,,,お兄さん,older brother,お 兄[にい]さん,1
+どうですか,How about...?; How is...?,どうですか,3,exp,,,,,,,,,妹,younger sister,妹[いもうと],1
+アルバイト,part-time job,アルバイト,4,n,,,,,,,,,弟,(my) younger brother,弟[おとうと],1
+買い物,shopping,買い物[かいもの],4,n,,,,,,,,,一歳,one year old,一歳[いっさい],1
+クラス,class (katakana),クラス,4,n,,,,,,,,,一分,one minute,一分[いっぷん],1
+あなた,you,あなた,4,n,,,,,,,,,九歳,nine years old,九歳[きゅうさい],1
+犬,dog,犬[いぬ],4,n,,,,,,,,,九分,nine minutes,九分[きゅうふん],1
+お土産,souvenir,お 土産[みやげ],4,n,,,,,,,,,九時,nine o'clock,九時[くじ],1
+子供,child,子供[こども],4,n,,,,,,,,,五歳,five years old,五歳[ごさい],1
+御飯,rice; meal,御飯[ごはん],4,n,,,,,,,,,五時,five o'clock,五時[ごじ],1
+写真,picture; photograph,写真[しゃしん],4,n,,,,,,,,,五分,five minutes,五分[ごふん],1
+机,desk,机[つくえ],4,n,,,,,,,,,三歳,three years old,三歳[さんさい],1
+手紙,letter,手紙[てがみ],4,n,,,,,,,,,三時,three o'clock,三時[さんじ],1
+猫,cat,猫[ねこ],4,n,,,,,,,,,三十分,thirty minutes,三十分[さんじゅっぷん],1
+パン,bread,パン,4,n,,,,,,,,,三分,three minutes,三分[さんぷん],1
+人,person,人[ひと],4,n,,,,,,,,,七時,seven o'clock,七時[しちじ],1
+お寺,temple,お 寺[てら],4,n,,,,,,,,,十一時,eleven o'clock,十一時[じゅういちじ],1
+公園,park,公園[こうえん],4,n,,,,,,,,,十一歳,eleven years old,十一歳[じゅういっさい],1
+スーパー,supermarket,スーパー,4,n,,,,,,,,,十一分,eleven minutes,十一分[じゅういっぷん],1
+デパート,department store,デパート,4,n,,,,,,,,,十九分,nineteen minutes,十九分[じゅうきゅうふん],1
+バス停,bus stop,バス停[ばすてい],4,n,,,,,,,,,十五分,fifteen minutes,十五分[じゅうごふん],1
+病院,hospital,病院[びょういん],4,n,,,,,,,,,十三分,thirteen minutes,十三分[じゅうさんぷん],1
+ホテル,hotel,ホテル,4,n,,,,,,,,,十時,ten o'clock,十時[じゅうじ],1
+本屋,bookstore,本屋[ほんや],4,n,,,,,,,,,十七分,seventeen minutes,十七分[じゅうななふん],1
+町,town; city,町[まち],4,n,,,,,,,,,十二時,twelve o'clock,十二時[じゅうにじ],1
+レストラン,restaurant,レストラン,4,n,,,,,,,,,十二分,twelve minutes,十二分[じゅうにふん],1
+昨日,yesterday,昨日[きのう],4,n,,,,,,,,,十八分,eighteen minutes,十八分[じゅうはっぷん],1
+さっき,a little while ago,さっき,4,n,,,,,,,,,十四分,fourteen minutes,十四分[じゅうよんぷん],1
+〜時間,~ hour(s) (duration),〜 時間[じかん],4,n,,,,,,,,,十六分,sixteen minutes,十六分[じゅうろっぷん],1
+一時間,one hour,一時間[いちじかん],4,n,,,,,,,,,十歳,ten years old,十歳[じゅっさい],1
+先週,last week,先週[せんしゅう],4,n,,,,,,,,,十分,ten minutes,十分[じゅっぷん],1
+時,when...; at the time of...,時[とき],4,n,,,,,,,,,七歳,seven years old,七歳[ななさい],1
+火曜日,Tuesday,火曜日[かようび],4,n,,,,,,,,,七分,seven minutes,七分[ななふん],1
+水曜日,Wednesday,水曜日[すいようび],4,n,,,,,,,,,二歳,two years old,二歳[にさい],1
+木曜日,Thursday,木曜日[もくようび],4,n,,,,,,,,,二時,two o'clock,二時[にじ],1
+金曜日,Friday,金曜日[きんようび],4,n,,,,,,,,,二十分,twenty minutes,二十分[にじゅっぷん],1
+会う,to meet; to see (a person),会[あ]う,4,v,,,,,,,,,二分,two minutes,二分[にふん],1
+ある,"there is, it exists",ある,4,v,,,,,,,,,二十歳,twenty years old,二十歳[はたち],1
+買う,to buy,買[か]う,4,v,,,,,,,,,八時,eight o'clock,八時[はちじ],1
+書く,to write,書[か]く,4,v,,,,,,,,,八歳,eight years old,八歳[はっさい],1
+撮る,to take (pictures),撮[と]る,4,v,,,,,,,,,八分,eight minutes,八分[はっぷん],1
+待つ,to wait,待[ま]つ,4,v,,,,,,,,,四時,four o'clock,四時[よじ],1
+わかる,to understand,わかる,4,v,,,,,,,,,四歳,four years old,四歳[よんさい],1
+いる (る-verb),(a person) is in ...; stays at …,いる (る-verb),4,v,,,,,,,,,四分,four minutes,四分[よんぷん],1
+〜ぐらい,about (approximate measurement),〜ぐらい,4,exp,,,,,,,,,六歳,six years old,六歳[ろくさい],1
+ごめんなさい,I'm sorry.,ごめんなさい,4,exp,,,,,,,,,六時,six o'clock,六時[ろくじ],1
+だから,so; therefore,だから,4,exp,,,,,,,,,六分,six minutes,六分[ろっぷん],1
+たくさん,many; a lot,たくさん,4,exp,,,,,,,,,これ,this one,これ,2
+〜と,together with (a person),〜と,4,exp,,,,,,,,,それ,that one,それ,2
+どうして,why,どうして,4,exp,,,,,,,,,あれ,that one (over there),あれ,2
+一人で,alone,一人[ひとり]で,4,exp,,,,,,,,,どれ,which one,どれ,2
+もしもし,Hello? (used on the phone),もしもし,4,exp,,,,,,,,,この,this ...,この,2
+海,sea,海[うみ],5,n,,,,,,,,,その,that ...,その,2
+切手,postal stamps,切手[きって],5,n,,,,,,,,,あの,that ... (over there),あの,2
+切符,ticket,切符[きっぷ],5,n,,,,,,,,,どの,which ...,どの,2
+サーフィン,surfing,サーフィン,5,n,,,,,,,,,あそこ,over there,あそこ,2
+宿題,homework,宿題[しゅくだい],5,n,,,,,,,,,どこ,where,どこ,2
+食べ物,food,食べ物[たべもの],5,n,,,,,,,,,だれ,who,だれ,2
+誕生日,birthday,誕生[たんじょう] 日[び],5,n,,,,,,,,,おいしい,delicious,おいしい,2
+テスト,test,テスト,5,n,,,,,,,,,魚,fish,魚[さかな],2
+天気,weather,天気[てんき],5,n,,,,,,,,,とんかつ,pork cutlet,とんかつ,2
+飲み物,"drink, beverages",飲み物[のみもの],5,n,,,,,,,,,肉,meat,肉[にく],2
+葉書,postcard,葉書[はがき],5,n,,,,,,,,,メニュー,menu,メニュー,2
+バス,bus,バス,5,n,,,,,,,,,野菜,vegetable,野菜[やさい],2
+飛行機,airplane,飛行機[ひこうき],5,n,,,,,,,,,鉛筆,pencil,鉛筆[えんぴつ],2
+部屋,room,部屋[へや],5,n,,,,,,,,,傘,umbrella,傘[かさ],2
+僕,I (used by men),僕[ぼく],5,n,,,,,,,,,かばん,bag,かばん,2
+休み,holiday; day off; absence,休[やす]み,5,n,,,,,,,,,靴,shoes,靴[くつ],2
+旅行,travel,旅行[りょこう],5,n,,,,,,,,,財布,wallet,財布[さいふ],2
+新しい,new,新[あたら]しい,5,adj,,,,,,,,,ジーンズ,jeans,ジーンズ,2
+暑い,hot (weather),暑[あつ]い,5,adj,,,,,,,,,辞書,dictionary,辞書[じしょ],2
+熱い,hot (objects),熱[あつ]い,5,adj,,,,,,,,,自転車,bicycle,自転車[じてんしゃ],2
+忙しい,busy (people/days),忙[いそが]しい,5,adj,,,,,,,,,新聞,newspaper,新聞[しんぶん],2
+大きい,large,大[おお]きい,5,adj,,,,,,,,,テープ,tape,テープ,2
+面白い,interesting,面白[おもしろ]い,5,adj,,,,,,,,,時計,watch; clock,時計[とけい],2
+怖い,frightening,怖[こわ]い,5,adj,,,,,,,,,トレーナー,sweat shirt,トレーナー,2
+寒い,cold (weather-not used for objects),寒[さむ]い,5,adj,,,,,,,,,ノート,notebook,ノート,2
+楽しい,fun,楽[たの]しい,5,adj,,,,,,,,,ペン,pen,ペン,2
+小さい,small,小[ちい]さい,5,adj,,,,,,,,,帽子,hat; cap,帽子[ぼうし],2
+つまらない,boring,つまらない,5,adj,,,,,,,,,本,book; [counter for long objects],本[ほん],2
+古い,old (thing - not used for people),古[ふる]い,5,adj,,,,,,,,,お手洗い,restroom,お 手洗[てあら]い,2
+難しい,difficult,難[むずか]しい,5,adj,,,,,,,,,喫茶店,cafe,喫茶店[きっさてん],2
+やさしい,easy (problem); kind (person),やさしい,5,adj,,,,,,,,,銀行,bank,銀行[ぎんこう],2
+安い,inexpensive; cheap (thing),安[やす]い,5,adj,,,,,,,,,図書館,library,図書館[としょかん],2
+嫌い（な）,disgusted with; to dislike,嫌[きら]い（な）,5,adj,,,,,,,,,郵便局,post office,郵便[ゆうびん] 局[きょく],2
+きれい（な）,beautiful; clean,きれい（な）,5,adj,,,,,,,,,経済,economics,経済[けいざい],2
+元気（な）,healthy; energetic,元気[げんき]（な）,5,adj,,,,,,,,,いくら,how much,いくら,2
+静か（な）,quiet,静[しず]か（な）,5,adj,,,,,,,,,〜円,...yen,〜 円[えん],2
+好き（な）,fond of; to like,好[す]き（な）,5,adj,,,,,,,,,高い,expensive,高[たか]い,2
+大嫌い（な）,to hate,大嫌[だいきら]い（な）,5,adj,,,,,,,,,いらっしゃいませ,Welcome (to our store),いらっしゃいませ,2
+大好き（な）,very fond of; to love,大好[だいす]き（な）,5,adj,,,,,,,,,（〜を）おねがいします,"..., please.",（〜を）おねがいします,2
+にぎやか（な）,lively,にぎやか（な）,5,adj,,,,,,,,,（〜を）ください,Please give me...,（〜を）ください,2
+ハンサム（な）,handsome,ハンサム（な）,5,adj,,,,,,,,,じゃあ,"then...; if that is the case,...",じゃあ,2
+暇（な）,not busy; to have a lot of free time,暇[ひま]（な）,5,adj,,,,,,,,,（〜を）どうぞ,Here it is.,（〜を）どうぞ,2
+泳ぐ,to swim,泳[およ]ぐ,5,v,,,,,,,,,どうも,Thank you. (short form),どうも,2
+乗る,to ride; to board,乗[の]る,5,v,,,,,,,,,いす,chair,いす,2
+やる,"to do; to perform; to give (to pets, plants, younger siblings, etc.)",やる,5,v,,,,,,,,,カーテン,curtain,カーテン,2
+出かける,to go out,出[で]かける,5,v,,,,,,,,,消しゴム,eraser,消しゴム[けしごむ],2
+一緒に,together,一緒[いっしょ]に,5,exp,,,,,,,,,黒板,black board,黒板[こくばん],2
+それから,and then,それから,5,exp,,,,,,,,,ドア,door,ドア,2
+大丈夫,It's okay.; Not to worry.; Everything is under control.,大丈夫[だいじょうぶ],5,exp,,,,,,,,,〜枚,[counter for flat objects],〜 枚[まい],5
+とても,very,とても,5,exp,,,,,,,,,エアログラム,aerogramme,エアログラム,5
+どんな,what kind of...,どんな,5,exp,,,,,,,,,書留,registered mail,書留[かきとめ],5
+〜まで,to (a place); as far as (a place); till (a time),〜まで,5,exp,,,,,,,,,現像,development,現像[げんぞう],5
+お金,money,お 金[かね],6,n,,,,,,,,,航空便,airmail,航空[こうくう] 便[びん],5
+おばあさん,grandmother; old woman,おばあさん,6,n,,,,,,,,,光沢あり,glossy finish,光沢[こうたく]あり,5
+お風呂,bath,お 風呂[ふろ],6,n,,,,,,,,,光沢なし,mat finish,光沢[こうたく]なし,5
+漢字,kanji; Chinese character,漢字[かんじ],6,n,,,,,,,,,小包,parcel,小包[こづつみ],5
+教科書,textbook,教科書[きょうかしょ],6,n,,,,,,,,,仕上がり,date/time something is ready,仕上[しあ]がり,5
+今週,this week,今週[こんしゅう],6,n,,,,,,,,,スライド,slide,スライド,5
+市民病院,Municipal Hospital,市民[しみん] 病院[びょういん],6,n,,,,,,,,,使い捨てカメラ,disposable camera,使い捨[つかいす]てカメラ,5
+次,next,次[つぎ],6,n,,,,,,,,,電池,battery,電池[でんち],5
+テレビゲーム,video game,テレビゲーム,6,n,,,,,,,,,２４枚鳥,24-print roll,２４ 枚[まい] 鳥[どり],5
+電気,electricity,電気[でんき],6,n,,,,,,,,,ネガ,negative,ネガ,5
+電車,train (electric),電車[でんしゃ],6,n,,,,,,,,,パノラマ,panoramic,パノラマ,5
+荷物,baggage,荷物[にもつ],6,n,,,,,,,,,引き換え券,receipt,引き換[ひきか]え 券[けん],5
+ページ,page,ページ,6,n,,,,,,,,,フィルム,film,フィルム,5
+窓,window,窓[まど],6,n,,,,,,,,,封書,"letter (with envelope, for mailing)",封書[ふうしょ],5
+夜,night,夜[よる],6,n,,,,,,,,,船便,surface mail,船便[ふなびん],5
+来週,next week,来週[らいしゅう],6,n,,,,,,,,,プリント,print,プリント,5
+来年,next year,来年[らいねん],6,n,,,,,,,,,保険,insurance,保険[ほけん],5
+大変（な）,tough (situation),大変[たいへん]（な）,6,adj,,,,,,,,,窓口,counter,窓口[まどぐち],5
+遊ぶ,to play; to spend time pleasantly,遊[あそ]ぶ,6,v,,,,,,,,,焼き増し,reprint,焼き増[やきま]し,5
+急ぐ,to hurry,急[いそ]ぐ,6,v,,,,,,,,,右,right,右[みぎ],4
+お風呂に入る,to take a bath,お 風呂[ふろ]に 入[はい]る,6,v,,,,,,,,,左,left,左[ひだり],4
+返す,to return (things),返[かえ]す,6,v,,,,,,,,,前,front; before…,前[まえ],4
+消す,to turn off; to erase,消[け]す,6,v,,,,,,,,,後ろ,back (behind),後[うし]ろ,4
+死ぬ,to die,死[し]ぬ,6,v,,,,,,,,,中,inside,中[なか],4
+座る,to sit down,座[すわ]る,6,v,,,,,,,,,上,on,上[うえ],4
+立つ,to stand up,立[た]つ,6,v,,,,,,,,,下,under,下[した],4
+たばこを吸う,to smoke,たばこを 吸[す]う,6,v,,,,,,,,,そば,near; Japanese buckwheat noodle,そば,4
+使う,to use,使[つか]う,6,v,,,,,,,,,隣,"next (to, of similar things)",隣[となり],4
+手伝う,to help,手伝[てつだ]う,6,v,,,,,,,,,間,between,間[あいだ],4
+入る,to enter,入[はい]る,6,v,,,,,,,,,そこ,there,そこ,4
+持つ,to carry; to hold,持[も]つ,6,v,,,,,,,,,ここ,here,ここ,4
+休む,to be absent (from...); to rest,休[やす]む,6,v,,,,,,,,,月曜日,Monday,月曜日[げつようび],4
+開ける,to open (something),開[あ]ける,6,v,,,,,,,,,一月,January,一月[いちがつ],4
+教える,to teach; to instruct,教[おし]える,6,v,,,,,,,,,五日,the fifth day of the month,五日[いつか],4
+降りる,to get off,降[お]りる,6,v,,,,,,,,,おととい,the day before yesterday,おととい,4
+借りる,to borrow,借[か]りる,6,v,,,,,,,,,おととし,the year before last,おととし,4
+閉める,to close (something),閉[し]める,6,v,,,,,,,,,去年,last year,去年[きょねん],4
+つける,to turn on,つける,6,v,,,,,,,,,九月,September,九月[くがつ],4
+電話をかける,to make a phone call,電話[でんわ]をかける,6,v,,,,,,,,,五月,May,五月[ごがつ],4
+忘れる,to forget; to leave behind,忘[わす]れる,6,v,,,,,,,,,九日,the ninth day of the month,九日[ここのか],4
+連れてくる,to bring (a person),連[つ]れてくる,6,v,,,,,,,,,再来月,the month after next,再来月[さらいげつ],4
+持ってくる,to bring (a thing),持[も]ってくる,6,v,,,,,,,,,再来週,the week after next,再来週[さらいしゅう],4
+後で,later on,後[あと]で,6,v,,,,,,,,,再来年,the year after next,再来年[さらいねん],4
+遅く,(do something) late,遅[おそ]く,6,v,,,,,,,,,三月,March,三月[さんがつ],4
+〜から,because ...,〜から,6,exp,,,,,,,,,四月,April,四月[しがつ],4
+結構です,That would be fine.; That wouldn't be necessary.,結構[けっこう]です,6,exp,,,,,,,,,七月,July,七月[しちがつ],4
+すぐ,right away,すぐ,6,exp,,,,,,,,,十一月,November,十一月[じゅういちがつ],4
+本当ですか,Really?,本当[ほんとう]ですか,6,exp,,,,,,,,,十一日,the eleventh day of a month,十一日[じゅういちにち],4
+ゆっくり,slowly; leisurely; unhurriedly,ゆっくり,6,exp,,,,,,,,,十月,October,十月[じゅうがつ],4
+姉,(my) older sister,姉[あね],7,n,,,,,,,,,十二月,December,十二月[じゅうにがつ],4
+アパート,apartment,アパート,7,n,,,,,,,,,十四日,the fourteenth day of a month,十四日[じゅうよっか],4
+歌,song,歌[うた],7,n,,,,,,,,,先々週,the week before last,先々[せんせん] 週[しゅう],4
+男の人,man,男[おとこ]の 人[ひと],7,n,,,,,,,,,一日,the first day of a month,一日[ついたち],4
+女の人,woman,女[おんな]の 人[ひと],7,n,,,,,,,,,十日,the tenth day of the month,十日[とおか],4
+会社,company,会社[かいしゃ],7,n,,,,,,,,,七日,the seventh day of the month,七日[なのか],4
+家族,family,家族[かぞく],7,n,,,,,,,,,二か月前,two months ago,二[に]か 月[げつ] 前[まえ],4
+髪,hair,髪[かみ],7,n,,,,,,,,,二月,February,二月[にがつ],4
+兄弟,brothers and sisters,兄弟[きょうだい],7,n,,,,,,,,,二十四日,the twenty-fourth day of the month,二十四日[にじゅうよっか],4
+国,country; place of origin,国[くに],7,n,,,,,,,,,八月,August,八月[はちがつ],4
+車,car,車[くるま],7,n,,,,,,,,,二十日,the twentieth day of the month,二十日[はつか],4
+コンビニ,convenience store,コンビニ,7,n,,,,,,,,,二日,the second day of a month,二日[ふつか],4
+食堂,cafeteria; dining commons,食堂[しょくどう],7,n,,,,,,,,,三日,the third day of a month,三日[みっか],4
+父,(my) father,父[ちち],7,n,,,,,,,,,六日,the sixth day of a month,六日[むいか],4
+Tシャツ,T-shirt,Tシャツ[てぃーしゃつ],7,n,,,,,,,,,八日,the eighth day of a month,八日[ようか],4
+目,eye,目[め],7,n,,,,,,,,,四日,the fourth day of a month,四日[よっか],4
+眼鏡,glasses,眼鏡[めがね],7,n,,,,,,,,,六月,June,六月[ろくがつ],4
+頭がいい,bright; smart; clever,頭[あたま]がいい,7,adj,,,,,,,,,角,corner,角[かど],6
+かっこいい,great-looking,かっこいい,7,adj,,,,,,,,,北,north,北[きた],6
+かわいい,cute,かわいい,7,adj,,,,,,,,,信号,traffic light,信号[しんごう],6
+背が高い,tall,背[せ]が 高[たか]い,7,adj,,,,,,,,,西,west,西[にし],6
+背が低い,short (stature),背[せ]が 低[ひく]い,7,adj,,,,,,,,,東,east,東[ひがし],6
+長い,long,長[なが]い,7,adj,,,,,,,,,左側,left side,左側[ひだりがわ],6
+短い,short (length),短[みじか]い,7,adj,,,,,,,,,一つ目,first,一[ひと]つ 目[め],6
+親切,kind,親切[しんせつ],7,adj,,,,,,,,,二つ目,"second (place, order)",二[ふた]つ 目[め],6
+便利,convenient,便利[べんり],7,adj,,,,,,,,,曲がる,to turn (right/left),曲[ま]がる,6
+歌う,to sing,歌[うた]う,7,v,,,,,,,,,右側,right side,右側[みぎがわ],6
+かぶる,to put on (a hat),かぶる,7,v,,,,,,,,,南,south,南[みなみ],6
+知る,to get to know,知[し]る,7,v,,,,,,,,,渡る,to cross,渡[わた]る,6
+知っています,I know,知[し]っています,7,v,,,,,,,,,頭,head,頭[あたま],7
+知りません,I do not know,知[し]りません,7,v,,,,,,,,,兄,(my) older brother,兄[あに],7
+住む,to live,住[す]む,7,v,,,,,,,,,うちの子,(my) child,うちの 子[こ],7
+はく,to put on (items below your waist),はく,7,v,,,,,,,,,うちの人,"(my) husband (more loving term, older term)",うちの 人[ひと],7
+太る,to gain weight,太[ふと]る,7,v,,,,,,,,,奥さん,(your/his) wife (casual),奥[おく]さん,7
+太っています,to be on the heavy side,太[ふと]っています,7,v,,,,,,,,,お子さん,(your/their) child (polite),お 子[こ]さん,7
+めがねをかける,to put on glasses,めがねをかける,7,v,,,,,,,,,おじいさん,grandfather; old man,おじいさん,7
+着る,to put on (clothes above your waist),着[き]る,7,v,,,,,,,,,おしり,buttocks,おしり,7
+勤める,to work for,勤[つと]める,7,v,,,,,,,,,夫,(my) husband (more literary),夫[おっと],7
+やせる,to lose weight,やせる,7,v,,,,,,,,,肩,shoulder,肩[かた],7
+やせています,to be thin,やせています,7,v,,,,,,,,,家内,(my) wife (polite),家内[かない],7
+結婚する,to get married,結婚[けっこん]する,7,v,,,,,,,,,かみさん,"(my) wife (casual, old fashioned)",かみさん,7
+が,but,が,7,exp,,,,,,,,,口,mouth,口[くち],7
+一人,one person,一人[ひとり],7,exp,,,,,,,,,首,neck,首[くび],7
+二人,two people,二人[ふたり],7,exp,,,,,,,,,ご主人,husband (someone else's),ご 主人[しゅじん],7
+もちろん,of course,もちろん,7,exp,,,,,,,,,主人,(my) husband (most polite),主人[しゅじん],7
+何も+(negative),not ... anything,何[なに]も+( negative),7,exp,,,,,,,,,しり,buttocks,しり,7
+別に + negative,not ... in particular,別[べつ]に+ negative,7,exp,,,,,,,,,背中,back (body part),背中[せなか],7
+よかったら,if you like,よかったら,7,exp,,,,,,,,,祖父,(my) grandfather,祖父[そふ],7
+あさって,the day after tomorrow,あさって,8,n,,,,,,,,,祖母,(my) grandmother,祖母[そぼ],7
+雨,rain,雨[あめ],8,n,,,,,,,,,だんな,husband (disrespectful),だんな,7
+カメラ,camera,カメラ,8,n,,,,,,,,,妻,(my) wife (polite or casual),妻[つま],7
+カラオケ,karaoke,カラオケ,8,n,,,,,,,,,手,hand,手[て],7
+空気,air,空気[くうき],8,n,,,,,,,,,女房,(my) wife (very old fashioned),女房[にょうぼう],7
+今朝,this morning,今朝[けさ],8,n,,,,,,,,,鼻,nose,鼻[はな],7
+今月,this month,今月[こんげつ],8,n,,,,,,,,,母,(my) mother,母[はは],7
+ディスコ,disco,ディスコ,8,n,,,,,,,,,耳,ear,耳[みみ],7
+天気予報,weather forecast,天気[てんき] 予報[よほう],8,n,,,,,,,,,胸,breast,胸[むね],7
+所,place,所[ところ],8,n,,,,,,,,,指,finger,指[ゆび],7
+トマト,tomato,トマト,8,n,,,,,,,,,ワイフ,(my) wife (very westernized),ワイフ,7
+夏,summer,夏[なつ],8,n,,,,,,,,,～行き,bound for…,~ 行[い]き,10
+何か,something,何[なに]か,8,n,,,,,,,,,一番後ろ,last car; tail end,一番[いちばん] 後[うし]ろ,10
+パーティー,party,パーティー,8,n,,,,,,,,,一番前,first car; front end,一番[いちばん] 前[まえ],10
+バーベキュー,barbecue,バーベキュー,8,n,,,,,,,,,入口,entrance,入口[いりぐち],10
+はし,chopsticks,はし,8,n,,,,,,,,,往復,round trip,往復[おうふく],10
+冬,winter,冬[ふゆ],8,n,,,,,,,,,改札,gate,改札[かいさつ],10
+ホームステイ,homestay; living with a local family,ホームステイ,8,n,,,,,,,,,回数券,coupons,回数[かいすう] 券[けん],10
+毎週,every week,毎週[まいしゅう],8,n,,,,,,,,,階段,stairs,階段[かいだん],10
+来月,next month,来月[らいげつ],8,n,,,,,,,,,学割,student discount,学割[がくわり],10
+上手,skillful; good at...,上手[じょうず],8,adj,,,,,,,,,片道,one way,片道[かたみち],10
+下手,clumsy; poor at...,下手[へた],8,adj,,,,,,,,,切符売り場,ticket vending area,切符[きっぷ] 売り場[うりば],10
+有名,famous,有名[ゆうめい],8,adj,,,,,,,,,急行,express,急行[きゅうこう],10
+雨が降る,to rain,雨[あめ]が 降[ふ]る,8,v,,,,,,,,,禁煙車,nonsmoking car,禁煙[きんえん] 車[しゃ],10
+洗う,to wash,洗[あら]う,8,v,,,,,,,,,指定席,reserved seat,指定[してい] 席[せき],10
+言う (often pronounced ゆ),to say,言[い]う,8,v,,,,,,,,,次発,departing second,次[つぎ] 発[はつ],10
+遅くなる,to be late (for ...),遅[おそ]くなる,8,v,,,,,,,,,自由席,general admission seat,自由[じゆう] 席[せき],10
+思う,to think,思[おも]う,8,v,,,,,,,,,終電,last train,終電[しゅうでん],10
+切る,to cut,切[き]る,8,v,,,,,,,,,乗車券,(boarding) ticket,乗車[じょうしゃ] 券[けん],10
+作る,to make,作[つく]る,8,v,,,,,,,,,整理券,vouchers; zone tickets,整理[せいり] 券[けん],10
+持っていく,to take (something),持[も]っていく,8,v,,,,,,,,,先発,departing first,先発[せんぱつ],10
+じろじろ見る,to stare (at ...),じろじろ 見[み]る,8,v,,,,,,,,,次は～,"next (stop),…",次[つぎ]は~,10
+始める,to begin,始[はじ]める,8,v,,,,,,,,,定期券,commuter's pass,定期[ていき] 券[けん],10
+運転する,to drive,運転[うんてん]する,8,v,,,,,,,,,出口,exit,出口[でぐち],10
+洗濯する,to do laundry,洗濯[せんたく]する,8,v,,,,,,,,,特急,super express,特急[とっきゅう],10
+掃除する,to clean,掃除[そうじ]する,8,v,,,,,,,,,乗り換え,transfer,乗り換[のりか]え,10
+料理する,to cook,料理[りょうり]する,8,v,,,,,,,,,売店,kiosk,売店[ばいてん],10
+いる　(う-verb),to need,いる　(う- verb),8,v,,,,,,,,,～番線,track number…,~ 番線[ばんせん],10
+ううん,uh-uh; no,ううん,8,exp,,,,,,,,,普通,local,普通[ふつう],10
+うん,uh-huh; yes,うん,8,exp,,,,,,,,,～方面,serving…areas,~ 方面[ほうめん],10
+乾杯,Cheers! (a toast),乾杯[かんぱい],8,exp,,,,,,,,,ホーム,platform,ホーム,10
+みんなで,all (of the people) together,みんなで,8,exp,,,,,,,,,かたい言い方,bookish expression,かたい 言い方[いいかた],11
+まだ + negative,not ... yet,まだ+ negative,8,exp,,,,,,,,,かっこ,parenthesis,かっこ,11
+残念ですね,That's too bad.,残念[ざんねん]ですね,8,exp,,,,,,,,,～行目,line number…,~ 行[ぎょう] 目[め],11
+いい子,good child,いい 子[こ],9,n,,,,,,,,,くだけた言い方,colloquial expression,くだけた 言い方[いいかた],11
+色,color,色[いろ],9,n,,,,,,,,,答,answer,答[こたえ],11
+お弁当,boxed lunch,お 弁当[べんとう],9,n,,,,,,,,,質問,question,質問[しつもん],11
+温泉,spa; hot spring,温泉[おんせん],9,n,,,,,,,,,しめきり,deadline,しめきり,11
+かぶき,Kabuki; traditional Japanese theatrical art,かぶき,9,n,,,,,,,,,たとえば,for example,たとえば,11
+ギター,guitar,ギター,9,n,,,,,,,,,ていねいな言い方,polite expression,ていねいな 言い方[いいかた],11
+薬,medicine,薬[くすり],9,n,,,,,,,,,ばつ,x (wrong),ばつ,11
+薬を飲む,to take medicine,薬[くすり]を 飲[の]む,9,n,,,,,,,,,発音,pronunciation,発音[はつおん],11
+コンサート,concert,コンサート,9,n,,,,,,,,,～番,number…,~ 番[ばん],11
+今度,near future,今度[こんど],9,n,,,,,,,,,標準語,standard Japanese,標準[ひょうじゅん] 語[ご],11
+作文,essay; composition,作文[さくぶん],9,n,,,,,,,,,二人ずつ,two people each,二人[ふたり]ずつ,11
+試験,exam,試験[しけん],9,n,,,,,,,,,文法,grammar,文法[ぶんぽう],11
+新幹線,Shinkansen; Bullet Train,新幹線[しんかんせん],9,n,,,,,,,,,～ページ,page number…,~ページ,11
+スキー,ski,スキー,9,n,,,,,,,,,方言,dialect,方言[ほうげん],11
+先月,last month,先月[せんげつ],9,n,,,,,,,,,ほかに,anything else,ほかに,11
+単語,word; vocabulary,単語[たんご],9,n,,,,,,,,,まる,O (correct),まる,11
+ピアノ,piano,ピアノ,9,n,,,,,,,,,例,example,例[れい],11
+病気,illness; sickness,病気[びょうき],9,n,,,,,,,,,練習,exercise,練習[れんしゅう],11
+青い,blue (adjective),青[あお]い,9,adj,,,,,,,,,眼科,ophthalmologist,眼科[がんか],12
+赤い,red (adjective),赤[あか]い,9,adj,,,,,,,,,けが,injury,けが,12
+黒い,black (adjective),黒[くろ]い,9,adj,,,,,,,,,外科,surgeon,外科[げか],12
+寂しい,lonely,寂[さび]しい,9,adj,,,,,,,,,抗生物質,antibiotic,抗生[こうせい] 物質[ぶっしつ],12
+白い,white (adjective),白[しろ]い,9,adj,,,,,,,,,産婦人科,obstetrician and gynecologist,産婦人科[さんふじんか],12
+若い,young,若[わか]い,9,adj,,,,,,,,,歯科,dentist,歯科[しか],12
+意地悪,mean-spirited,意地悪[いじわる],9,adj,,,,,,,,,耳鼻科,otorhinolaryngologist; ENT doctor,耳鼻[じび] 科[か],12
+踊る,to dance,踊[おど]る,9,v,,,,,,,,,手術,operation,手術[しゅじゅつ],12
+終わる,(something) ends,終[お]わる,9,v,,,,,,,,,整形外科,orthopedic surgeon,整形[せいけい] 外科[げか],12
+人気がある,to be popular,人気[にんき]がある,9,v,,,,,,,,,体温計,thermometer,体温計[たいおんけい],12
+始まる,(something) begins,始[はじ]まる,9,v,,,,,,,,,注射,injection,注射[ちゅうしゃ],12
+弾く,to play (a string instrument or piano),弾[ひ]く,9,v,,,,,,,,,内科,physician,内科[ないか],12
+もらう,to get (from somebody),もらう,9,v,,,,,,,,,皮膚科,dermatologist,皮膚[ひふ] 科[か],12
+覚える,to memorize,覚[おぼ]える,9,v,,,,,,,,,レントゲン,X-ray,レントゲン,12
+出る,to appear; to attend; to exit,出[で]る,9,v,,,,,,,,,,,,
+運動する,to do physical exercises,運動[うんどう]する,9,v,,,,,,,,,,,,
+散歩する,to take a walk,散歩[さんぽ]する,9,v,,,,,,,,,,,,
+是非,by all means,是非[ぜひ],9,exp,,,,,,,,,,,,
+みんな,all (usually people),みんな,9,exp,,,,,,,,,,,,
+もう,already,もう,9,exp,,,,,,,,,,,,
+一つ,one (small item),一[ひと]つ,9,exp,,,,,,,,,,,,
+二つ,two (small items),二[ふた]つ,9,exp,,,,,,,,,,,,
+三つ,three (small items),三[みっ]つ,9,exp,,,,,,,,,,,,
+四つ,four (small items),四[よっ]つ,9,exp,,,,,,,,,,,,
+五つ,five (small items),五[いつ]つ,9,exp,,,,,,,,,,,,
+六つ,six (small items),六[むっ]つ,9,exp,,,,,,,,,,,,
+七つ,seven (small items),七[なな]つ,9,exp,,,,,,,,,,,,
+八つ,eight (small items),八[やっ]つ,9,exp,,,,,,,,,,,,
+九つ,nine (small items),九[ここの]つ,9,exp,,,,,,,,,,,,
+十,ten (small items),十[とお],9,exp,,,,,,,,,,,,
+顔が青い,to look pale,顔[かお]が 青[あお]い,9,exp,,,,,,,,,,,,
+黄色い,yellow (adjective),黄色[きいろ]い,9,adj,,,,,,,,,,,,
+金色,gold (kanji-hiragana),金色[きんいろ],9,adj,,,,,,,,,,,,
+銀色,silver (kanji-hiragana),銀色[ぎんいろ],9,adj,,,,,,,,,,,,
+金髪,blonde hair,金髪[きんぱつ],9,adj,,,,,,,,,,,,
+グリーン,green (katakana),グリーン,9,adj,,,,,,,,,,,,
+グレー,gray (katakana),グレー,9,adj,,,,,,,,,,,,
+ゴールド,gold (katakana),ゴールド,9,adj,,,,,,,,,,,,
+シルバー,silver (katakana),シルバー,9,adj,,,,,,,,,,,,
+白黒,black and white,白黒[しろくろ],9,adj,,,,,,,,,,,,
+茶色い,brown (adjective),茶色[ちゃいろ]い,9,adj,,,,,,,,,,,,
+灰色,gray (kanji-hiragana),灰色[はいいろ],9,adj,,,,,,,,,,,,
+ピンク,pink,ピンク,9,adj,,,,,,,,,,,,
+水色,light blue,水色[みずいろ],9,adj,,,,,,,,,,,,
+緑,green (kanji-hiragana),緑[みどり],9,adj,,,,,,,,,,,,
+紫,purple,紫[むらさき],9,adj,,,,,,,,,,,,
+秋,fall,秋[あき],10,n,,,,,,,,,,,,
+駅,station,駅[えき],10,n,,,,,,,,,,,,
+お金持ち,rich person,お 金持[かねも]ち,10,n,,,,,,,,,,,,
+顔,face,顔[かお],10,n,,,,,,,,,,,,
+季節,season,季節[きせつ],10,n,,,,,,,,,,,,
+クレジットカード,credit card,クレジットカード,10,n,,,,,,,,,,,,
+今年,this year,今年[ことし],10,n,,,,,,,,,,,,
+サッカー,soccer,サッカー,10,n,,,,,,,,,,,,
+シャツ,shirt,シャツ,10,n,,,,,,,,,,,,
+生活,life; living,生活[せいかつ],10,n,,,,,,,,,,,,
+世界,world,世界[せかい],10,n,,,,,,,,,,,,
+地下鉄,subway,地下鉄[ちかてつ],10,n,,,,,,,,,,,,
+手袋,gloves,手袋[てぶくろ],10,n,,,,,,,,,,,,
+床屋,barber's,床屋[とこや],10,n,,,,,,,,,,,,
+春,spring,春[はる],10,n,,,,,,,,,,,,
+パンツ,pants,パンツ,10,n,,,,,,,,,,,,
+美容院,beauty parlor,美容[びよう] 院[いん],10,n,,,,,,,,,,,,
+便,flight,便[びん],10,n,,,,,,,,,,,,
+船,ship; boat,船[ふね],10,n,,,,,,,,,,,,
+野球,baseball,野球[やきゅう],10,n,,,,,,,,,,,,
+有名人,celebrity,有名人[ゆうめいじん],10,n,,,,,,,,,,,,
+予約,reservation,予約[よやく],10,n,,,,,,,,,,,,
+来学期,next semester,来[らい] 学期[がっき],10,n,,,,,,,,,,,,
+りんご,apple,りんご,10,n,,,,,,,,,,,,
+暖かい,warm,暖[あたた]かい,10,adj,,,,,,,,,,,,
+遅い,slow; late,遅[おそ]い,10,adj,,,,,,,,,,,,
+涼しい,cool (weather),涼[すず]しい,10,adj,,,,,,,,,,,,
+冷たい,cold (thing/people),冷[つめ]たい,10,adj,,,,,,,,,,,,
+眠い,sleepy,眠[ねむ]い,10,adj,,,,,,,,,,,,
+簡単,easy; simple,簡単[かんたん],10,adj,,,,,,,,,,,,
+かかる,to take (amount of time / money),かかる,10,v,,,,,,,,,,,,
+泊まる,"to stay (at a hotel, etc.)",泊[と]まる,10,v,,,,,,,,,,,,
+なる,to become,なる,10,v,,,,,,,,,,,,
+払う,to pay,払[はら]う,10,v,,,,,,,,,,,,
+決める,to decide,決[き]める,10,v,,,,,,,,,,,,
+練習する,to practice,練習[れんしゅう]する,10,v,,,,,,,,,,,,
+歩いて,on foot,歩[ある]いて,10,exp,,,,,,,,,,,,
+一番,best,一番[いちばん],10,exp,,,,,,,,,,,,
+このごろ,these days,このごろ,10,exp,,,,,,,,,,,,
+どうやって,how; by what means,どうやって,10,exp,,,,,,,,,,,,
+どちら,which; where (polite),どちら,10,exp,,,,,,,,,,,,
+どのぐらい,how much; how long,どのぐらい,10,exp,,,,,,,,,,,,
+～か～,or,~か~,10,exp,,,,,,,,,,,,
+～か月,for ... months,~か 月[げつ],10,exp,,,,,,,,,,,,
+～後,in ... time; after ...,~ 後[ご],10,exp,,,,,,,,,,,,
+～週間,for ... weeks,~ 週間[しゅうかん],10,exp,,,,,,,,,,,,
+～で,by (means of transportation); with (a tool),~で,10,exp,,,,,,,,,,,,
+どっち,which (alternative shorter form),どっち,10,exp,,,,,,,,,,,,
+早く,(do something) early,早[はや]く,10,exp,,,,,,,,,,,,
+お菓子,snack; sweets,お 菓子[かし],11,n,,,,,,,,,,,,
+お正月,New Year's,お 正月[しょうがつ],11,n,,,,,,,,,,,,
+男の子,boy,男の子[おとこのこ],11,n,,,,,,,,,,,,
+おもちゃ,toy,おもちゃ,11,n,,,,,,,,,,,,
+女の子,girl,女の子[おんなのこ],11,n,,,,,,,,,,,,
+外国,foreign country,外国[がいこく],11,n,,,,,,,,,,,,
+歌手,singer,歌手[かしゅ],11,n,,,,,,,,,,,,
+キャンプ,camp,キャンプ,11,n,,,,,,,,,,,,
+今学期,this semester,今[こん] 学期[がっき],11,n,,,,,,,,,,,,
+社長,president of a company,社長[しゃちょう],11,n,,,,,,,,,,,,
+授業,class (hiragana),授業[じゅぎょう],11,n,,,,,,,,,,,,
+将来,future,将来[しょうらい],11,n,,,,,,,,,,,,
+ドライブ,drive (noun),ドライブ,11,n,,,,,,,,,,,,
+ビール,beer,ビール,11,n,,,,,,,,,,,,
+美術館,art museum,美術館[びじゅつかん],11,n,,,,,,,,,,,,
+ホストファミリー,host family,ホストファミリー,11,n,,,,,,,,,,,,
+湖,lake,湖[みずうみ],11,n,,,,,,,,,,,,
+山,mountain,山[やま],11,n,,,,,,,,,,,,
+夢,dream,夢[ゆめ],11,n,,,,,,,,,,,,
+ルームメート,roommate,ルームメート,11,n,,,,,,,,,,,,
+うそをつく,to tell a lie,うそをつく,11,v,,,,,,,,,,,,
+おなかがすく,to become hungry,おなかがすく,11,v,,,,,,,,,,,,
+飼う,to own (a pet),飼[か]う,11,v,,,,,,,,,,,,
+サボる,to cut classes,サボ[さぼ]る,11,v,,,,,,,,,,,,
+取る,to take (a class); to get (a grade),取[と]る,11,v,,,,,,,,,,,,
+習う,to learn,習[なら]う,11,v,,,,,,,,,,,,
+登る,to climb,登[のぼ]る,11,v,,,,,,,,,,,,
+働く,to work,働[はたら]く,11,v,,,,,,,,,,,,
+疲れる,to get tired,疲[つか]れる,11,v,,,,,,,,,,,,
+やめる,to quit,やめる,11,v,,,,,,,,,,,,
+けんかする,to have a fight; to quarrel,けんかする,11,v,,,,,,,,,,,,
+紹介する,to introduce,紹介[しょうかい]する,11,v,,,,,,,,,,,,
+ダイエットする,to go on a diet,ダイエットする,11,v,,,,,,,,,,,,
+遅刻する,to be late (for an appointment),遅刻[ちこく]する,11,v,,,,,,,,,,,,
+留学する,to study abroad,留学[りゅうがく]する,11,v,,,,,,,,,,,,
+後,after (an event); the rest,後[あと],11,exp,,,,,,,,,,,,
+出身,coming from,出身[しゅっしん],11,exp,,,,,,,,,,,,
+すごく,very (not とても),すごく,11,exp,,,,,,,,,,,,
+そして,and then,そして,11,exp,,,,,,,,,,,,
+久しぶり,it has been a long time,久[ひさ]しぶり,11,exp,,,,,,,,,,,,
+まあまあ,okay; so-so,まあまあ,11,exp,,,,,,,,,,,,
+もっと,more,もっと,11,exp,,,,,,,,,,,,
+足,leg; foot,足[あし],12,n,,,,,,,,,,,,
+意味,meaning,意味[いみ],12,n,,,,,,,,,,,,
+おなか,stomach,おなか,12,n,,,,,,,,,,,,
+風,cold; wind,風[かぜ],12,n,,,,,,,,,,,,
+彼女,girlfriend,彼女[かのじょ],12,n,,,,,,,,,,,,
+彼,boyfriend,彼[かれ],12,n,,,,,,,,,,,,
+気温,temperature (weather),気温[きおん],12,n,,,,,,,,,,,,
+曇り,cloudy weather,曇[くも]り,12,n,,,,,,,,,,,,
+試合,match; game,試合[しあい],12,n,,,,,,,,,,,,
+ジュース,juice,ジュース,12,n,,,,,,,,,,,,
+成績,"grade (on a test, etc.)",成績[せいせき],12,n,,,,,,,,,,,,
+咳,cough,咳[せき],12,n,,,,,,,,,,,,
+のど,throat,のど,12,n,,,,,,,,,,,,
+歯,tooth,歯[は],12,n,,,,,,,,,,,,
+花,flower,花[はな],12,n,,,,,,,,,,,,
+晴れ,sunny weather,晴[は]れ,12,n,,,,,,,,,,,,
+服,clothes,服[ふく],12,n,,,,,,,,,,,,
+二日酔い,hangover,二日酔[ふつかよ]い,12,n,,,,,,,,,,,,
+プレゼント,present,プレゼント,12,n,,,,,,,,,,,,
+ホームシック,homesickness,ホームシック,12,n,,,,,,,,,,,,
+物,thing (concrete object),物[もの],12,n,,,,,,,,,,,,
+雪,snow,雪[ゆき],12,n,,,,,,,,,,,,
+用事,business to take care of,用事[ようじ],12,n,,,,,,,,,,,,
+甘い,sweet,甘[あま]い,12,adj,,,,,,,,,,,,
+痛い,hurt; painful,痛[いた]い,12,adj,,,,,,,,,,,,
+多い,there are many...,多[おお]い,12,adj,,,,,,,,,,,,
+狭い,narrow; not spacious,狭[せま]い,12,adj,,,,,,,,,,,,
+都合が悪い,inconvenient; to have a scheduling conflict,都合[つごう]が 悪[わる]い,12,adj,,,,,,,,,,,,
+悪い,bad,悪[わる]い,12,adj,,,,,,,,,,,,
+素敵,fantastic,素敵[すてき],12,adj,,,,,,,,,,,,
+風邪をひく,to catch a cold,風邪[かぜ]をひく,12,v,,,,,,,,,,,,
+興味がある,to be interested (in ...),興味[きょうみ]がある,12,v,,,,,,,,,,,,
+なくす,to lose,なくす,12,v,,,,,,,,,,,,
+のどが渇く,to become thirsty,のどが 渇[かわ]く,12,v,,,,,,,,,,,,
+熱がある,to have a fever,熱[ねつ]がある,12,v,,,,,,,,,,,,
+せきが出る,to cough,せきが 出[で]る,12,v,,,,,,,,,,,,
+別れる,to break up; to separate,別[わか]れる,12,v,,,,,,,,,,,,
+緊張する,to get nervous,緊張[きんちょう]する,12,v,,,,,,,,,,,,
+心配する,to worry,心配[しんぱい]する,12,v,,,,,,,,,,,,
+いつも,always,いつも,12,exp,,,,,,,,,,,,
+お大事に,Get well soon.,お 大事[だいじ]に,12,exp,,,,,,,,,,,,
+元気がない,don't look well,元気[げんき]がない,12,exp,,,,,,,,,,,,
+多分,probably; maybe,多分[たぶん],12,exp,,,,,,,,,,,,
+できるだけ,as much as possible,できるだけ,12,exp,,,,,,,,,,,,
+二三日,for two to three days,二[に]三[さん]日[にち],12,exp,,,,,,,,,,,,
+～でしょう,"probably; ..., right?",~でしょう,12,exp,,,,,,,,,,,,
+～度,... degrees (temperature),~ 度[ど],12,exp,,,,,,,,,,,,
+～ので,... because (alternative),~ので,12,exp,,,,,,,,,,,,
+初めて,for the first time,初[はじ]めて,12,exp,,,,,,,,,,,,
+もうすぐ,very soon; in a few moments/days,もうすぐ,12,exp,,,,,,,,,,,,
+ウェイター,waiter,ウェイター,13,n,,,,,,,,,,,,
+大人,adult,大人[おとな],13,n,,,,,,,,,,,,
+外国語,foreign language,外国[がいこく] 語[ご],13,n,,,,,,,,,,,,
+楽器,musical instrument,楽器[がっき],13,n,,,,,,,,,,,,
+空手,karate,空手[からて],13,n,,,,,,,,,,,,
+カレー,curry,カレー,13,n,,,,,,,,,,,,
+着物,kimono; Japanese traditional dress,着物[きもの],13,n,,,,,,,,,,,,
+ケーキ,cake,ケーキ,13,n,,,,,,,,,,,,
+広告,advertisement,広告[こうこく],13,n,,,,,,,,,,,,
+紅茶,tea (black tea),紅茶[こうちゃ],13,n,,,,,,,,,,,,
+言葉,language,言葉[ことば],13,n,,,,,,,,,,,,
+ゴルフ,golf,ゴルフ,13,n,,,,,,,,,,,,
+セーター,sweater,セーター,13,n,,,,,,,,,,,,
+象,elephant,象[ぞう],13,n,,,,,,,,,,,,
+バイオリン,violin,バイオリン,13,n,,,,,,,,,,,,
+バイク,motorbike,バイク,13,n,,,,,,,,,,,,
+物価,(consumer) prices,物価[ぶっか],13,n,,,,,,,,,,,,
+募集,recruitment,募集[ぼしゅう],13,n,,,,,,,,,,,,
+店,shop; store,店[みせ],13,n,,,,,,,,,,,,
+やくざ,yakuza; gangster,やくざ,13,n,,,,,,,,,,,,
+約束,promise; appointment,約束[やくそく],13,n,,,,,,,,,,,,
+レポート,(term) paper,レポート,13,n,,,,,,,,,,,,
+私 (formal),I (formal),私[わたくし]( formal),13,n,,,,,,,,,,,,
+うれしい,glad,うれしい,13,adj,,,,,,,,,,,,
+悲しい,sad,悲[かな]しい,13,adj,,,,,,,,,,,,
+辛い,hot and spicy; salty,辛[から]い,13,adj,,,,,,,,,,,,
+厳しい,strict,厳[きび]しい,13,adj,,,,,,,,,,,,
+近い,close; near,近[ちか]い,13,adj,,,,,,,,,,,,
+いろいろ,various; different kinds of,いろいろ（な),13,adj,,,,,,,,,,,,
+幸せ(な）,happy (lasting happiness),幸[しあわ]せ(な）,13,adj,,,,,,,,,,,,
+だめ,no good,だめ,13,adj,,,,,,,,,,,,
+編む,to knit,編[あ]む,13,v,,,,,,,,,,,,
+貸す,to lend; to rent,貸[か]す,13,v,,,,,,,,,,,,
+頑張る,to do one's best; to try hard,頑張[がんば]る,13,v,,,,,,,,,,,,
+泣く,to cry,泣[な]く,13,v,,,,,,,,,,,,
+磨く,to brush (teeth); to polish,磨[みが]く,13,v,,,,,,,,,,,,
+約束を守る,to keep a promise,約束[やくそく]を 守[まも]る,13,v,,,,,,,,,,,,
+感動する,to be moved/touched (by ...),感動[かんどう]する,13,v,,,,,,,,,,,,
+いらっしゃいます,(someone honorable) is present/home,いらっしゃいます,13,exp,,,,,,,,,,,,
+実は,"as a matter of fact, ...",実[じつ]は,13,exp,,,,,,,,,,,,
+全部,all,全部[ぜんぶ],13,exp,,,,,,,,,,,,
+一日 (duration),one day (duration),一[いち] 日[にち]( duration),13,exp,,,,,,,,,,,,
+二日 (duration),two days,二日[ふつか]( duration),13,exp,,,,,,,,,,,,
+三日 (duration),three days,三日[みっか]　(duration),13,exp,,,,,,,,,,,,
+四日 (duration),four days,四日[よっか] (duration),13,exp,,,,,,,,,,,,
+五日 (duration),five days,五日[いつか]( duration),13,exp,,,,,,,,,,,,
+六日 (duration),six days,六日[むいか]( duration),13,exp,,,,,,,,,,,,
+七日 (duration),seven days,七日[なのか]( duration),13,exp,,,,,,,,,,,,
+八日 (duration),eight days,八日[ようか]( duration),13,exp,,,,,,,,,,,,
+九日 (duration),nine days,九日[ここのか]( duration),13,exp,,,,,,,,,,,,
+十日 (duration),ten days,十日[とおか]( duration),13,exp,,,,,,,,,,,,
+よろしくお願いします,Thank you (in advance),よろしくお 願[ねが]いします,13,exp,,,,,,,,,,,,
+ぬいぐるみ,"stuffed animal (e.g., teddy bear)",ぬいぐるみ,14,n,,,,,,,,,,,,
+大家さん,landlord,大家[おおや]さん,14,n,,,,,,,,,,,,
+お返し,return (as a token of gratitude),お 返[かえ]し,14,n,,,,,,,,,,,,
+おじさん,uncle; middle-aged man,おじさん,14,n,,,,,,,,,,,,
+おばさん,aunt; middle-aged woman,おばさん,14,n,,,,,,,,,,,,
+クラブ,club; student society,クラブ,14,n,,,,,,,,,,,,
+クリスマス,Christmas,クリスマス,14,n,,,,,,,,,,,,
+コップ,tumbler; glass,コップ,14,n,,,,,,,,,,,,
+皿,plate; dish,皿[さら],14,n,,,,,,,,,,,,
+時間,time,時間[じかん],14,n,,,,,,,,,,,,
+チョコレート,chocolate,チョコレート,14,n,,,,,,,,,,,,
+電子メール,e-mail,電子[でんし]メール,14,n,,,,,,,,,,,,
+ネクタイ,necktie,ネクタイ,14,n,,,,,,,,,,,,
+バレンタインデー,St. Valentine's Day,バレンタインデー,14,n,,,,,,,,,,,,
+ビデオカメラ,camcorder,ビデオカメラ,14,n,,,,,,,,,,,,
+夫婦,married couple; husband and wife,夫婦[ふうふ],14,n,,,,,,,,,,,,
+ホワイトデー,White Day (yet another gift-giving day),ホワイトデー,14,n,,,,,,,,,,,,
+マフラー,winter scarf,マフラー,14,n,,,,,,,,,,,,
+漫画,comic book,漫画[まんが],14,n,,,,,,,,,,,,
+マンション,multistory apartment; condominium,マンション,14,n,,,,,,,,,,,,
+みかん,mandarin,みかん,14,n,,,,,,,,,,,,
+指輪,ring,指輪[ゆびわ],14,n,,,,,,,,,,,,
+両親,parents,両親[りょうしん],14,n,,,,,,,,,,,,
+履歴書,resume,履歴[りれき] 書[しょ],14,n,,,,,,,,,,,,
+欲しい,to want,欲[ほ]しい,14,adj,,,,,,,,,,,,
+けち（な）,stingy; cheap,けち（な）,14,adj,,,,,,,,,,,,
+送る,to send; to walk/drive (someone),送[おく]る,14,v,,,,,,,,,,,,
+似合う,to look good (on somebody),似合[にあ]う,14,v,,,,,,,,,,,,
+あきらめる,to give up,あきらめる,14,v,,,,,,,,,,,,
+あげる,to give (to others),あげる,14,v,,,,,,,,,,,,
+くれる,"to give (to me, from them to you)",くれる,14,v,,,,,,,,,,,,
+できる,to come into existence; to be made,できる,14,v,,,,,,,,,,,,
+相談する,to consult,相談[そうだん]する,14,v,,,,,,,,,,,,
+プロポーズする,to propose marriage,プロポーズする,14,v,,,,,,,,,,,,
+同じ,same,同[おな]じ,14,exp,,,,,,,,,,,,
+私たち,we,私[わたし]たち,14,exp,,,,,,,,,,,,
+ちょうど,exactly,ちょうど,14,exp,,,,,,,,,,,,
+～個,[generic counter for smaller items],～ 個[こ],14,exp,,,,,,,,,,,,
+～冊,[counter for bound volumes],～ 冊[さつ],14,exp,,,,,,,,,,,,
+～台,[counter for equipment],～台[だい],14,exp,,,,,,,,,,,,
+～匹,[counter for smaller animals],～ 匹[ひき],14,exp,,,,,,,,,,,,
+絵,painting; picture; drawing,絵[え],15,n,,,,,,,,,,,,
+映画館,movie theater,映画[えいが] 館[かん],15,n,,,,,,,,,,,,
+外国人,foreigner,外国[がいこく] 人[じん],15,n,,,,,,,,,,,,
+家具,furniture,家具[かぐ],15,n,,,,,,,,,,,,
+観光,sightseeing,観光[かんこう],15,n,,,,,,,,,,,,
+結婚式,wedding,結婚式[けっこんしき],15,n,,,,,,,,,,,,
+地震,earthquake,地震[じしん],15,n,,,,,,,,,,,,
+締め切り,deadline,締め切[しめき]り,15,n,,,,,,,,,,,,
+ジャケット,jacket,ジャケット,15,n,,,,,,,,,,,,
+習慣,custom,習慣[しゅうかん],15,n,,,,,,,,,,,,
+税金,tax,税金[ぜいきん],15,n,,,,,,,,,,,,
+卒業式,graduation ceremony,卒業[そつぎょう] 式[しき],15,n,,,,,,,,,,,,
+地図,map,地図[ちず],15,n,,,,,,,,,,,,
+庭,garden,庭[にわ],15,n,,,,,,,,,,,,
+発表,presentation,発表[はっぴょう],15,n,,,,,,,,,,,,
+番組,broadcast program,番組[ばんぐみ],15,n,,,,,,,,,,,,
+プール,swimming pool,プール,15,n,,,,,,,,,,,,
+ペット,pet,ペット,15,n,,,,,,,,,,,,
+予定,schedule,予定[よてい],15,n,,,,,,,,,,,,
+旅館,inn,旅館[りょかん],15,n,,,,,,,,,,,,
+割引券,discount coupon,割引[わりびき] 券[けん],15,n,,,,,,,,,,,,
+広い,spacious; wide,広[ひろ]い,15,adj,,,,,,,,,,,,
+売る,to sell,売[う]る,15,v,,,,,,,,,,,,
+下ろす,to withdraw (money),下[お]ろす,15,v,,,,,,,,,,,,
+かく,to draw; to paint,かく,15,v,,,,,,,,,,,,
+探す,to look for,探[さが]す,15,v,,,,,,,,,,,,
+誘う,to invite,誘[さそ]う,15,v,,,,,,,,,,,,
+付き合う,-1 to date (someone) -2 to keep company,付き合[つきあ]う,15,v,,,,,,,,,,,,
+着く,to arrive,着[つ]く,15,v,,,,,,,,,,,,
+保険に入る,to buy insurance,保険[ほけん]に 入[はい]る,15,v,,,,,,,,,,,,
+気をつける,to be cautious/careful,気[き]をつける,15,v,,,,,,,,,,,,
+調べる,to look into (a matter),調[しら]べる,15,v,,,,,,,,,,,,
+捨てる,to throw away,捨[す]てる,15,v,,,,,,,,,,,,
+見える,to be visible,見[み]える,15,v,,,,,,,,,,,,
+卒業する,to graduate (from ...),卒業[そつぎょう]する,15,v,,,,,,,,,,,,
+予約する,to reserve,予約[よやく]する,15,v,,,,,,,,,,,,
+一日中,all day long,一日[いちにち] 中[じゅう],15,exp,,,,,,,,,,,,
+最近,recently,最近[さいきん],15,exp,,,,,,,,,,,,
+～けど,"...,but; ..., so",~けど,15,exp,,,,,,,,,,,,
+～について,about ...; concerning ...,~について,15,exp,,,,,,,,,,,,
+～目,-th,~ 目[め],15,exp,,,,,,,,,,,,
+もう一度,one more time,もう 一度[いちど],15,exp,,,,,,,,,,,,
+駅員,station attendant,駅員[えきいん],16,n,,,,,,,,,,,,
+親,parent,親[おや],16,n,,,,,,,,,,,,
+ごみ,garbage,ごみ,16,n,,,,,,,,,,,,
+砂糖,sugar,砂糖[さとう],16,n,,,,,,,,,,,,
+奨学金,scholarship,奨学[しょうがく] 金[きん],16,n,,,,,,,,,,,,
+親せき,relatives,親[しん]せき,16,n,,,,,,,,,,,,
+推薦状,letter of recommendation,推薦[すいせん] 状[じょう],16,n,,,,,,,,,,,,
+大学院,graduate school,大学院[だいがくいん],16,n,,,,,,,,,,,,
+台風,typhoon,台風[たいふう],16,n,,,,,,,,,,,,
+日,day,日[ひ],16,n,,,,,,,,,,,,
+ファイル,file; portfolio,ファイル,16,n,,,,,,,,,,,,
+道,way; road; directions,道[みち],16,n,,,,,,,,,,,,
+目覚まし時計,alarm clock,目覚[めざ]まし 時計[とけい],16,n,,,,,,,,,,,,
+汚い,dirty,汚[きたな]い,16,adj,,,,,,,,,,,,
+起こす,to wake (someone) up,起[お]こす,16,v,,,,,,,,,,,,
+おごる,to treat (someone) to a meal,おごる,16,v,,,,,,,,,,,,
+落ち込む,to get depressed,落ち込[おちこ]む,16,v,,,,,,,,,,,,
+困る,to have difficulty,困[こま]る,16,v,,,,,,,,,,,,
+出す,to take (something) out; to hand in (something),出[だ]す,16,v,,,,,,,,,,,,
+連れていく,to take (someone) to (a place),連[つ]れていく,16,v,,,,,,,,,,,,
+直す,to correct; to fix,直[なお]す,16,v,,,,,,,,,,,,
+道に迷う,to become lost; to lose one's way,道[みち]に 迷[まよ]う,16,v,,,,,,,,,,,,
+訳す,to translate,訳[やく]す,16,v,,,,,,,,,,,,
+笑う,to laugh,笑[わら]う,16,v,,,,,,,,,,,,
+アイロンをかける,to iron (clothes),アイロンをかける,16,v,,,,,,,,,,,,
+集める,to collect,集[あつ]める,16,v,,,,,,,,,,,,
+入れる,to put (something) in,入[い]れる,16,v,,,,,,,,,,,,
+乗り遅れる,"to miss (a train, bus, etc.)",乗り遅[のりおく]れる,16,v,,,,,,,,,,,,
+見せる,to show,見[み]せる,16,v,,,,,,,,,,,,
+朝寝坊する,to oversleep,朝寝坊[あさねぼう]する,16,v,,,,,,,,,,,,
+案内する,to show (someone) around,案内[あんない]する,16,v,,,,,,,,,,,,
+説明する,to explain,説明[せつめい]する,16,v,,,,,,,,,,,,
+迎えに来る,to come to pick up (someone),迎[むか]えに 来[く]る,16,v,,,,,,,,,,,,
+ええと,well...; let me see...,ええと,16,exp,,,,,,,,,,,,
+今日中に,by the end of today,今日[きょう] 中[ちゅう]に,16,exp,,,,,,,,,,,,
+この間,the other day,この 間[かん],16,exp,,,,,,,,,,,,
+このぐらい,about this much,このぐらい,16,exp,,,,,,,,,,,,
+ごめん,I'm sorry. (casual),ごめん,16,exp,,,,,,,,,,,,
+失礼します,Excuse me..; Sorry to interrupt you.,失礼[しつれい]します,16,exp,,,,,,,,,,,,
+自分で,(do something) oneself,自分[じぶん]で,16,exp,,,,,,,,,,,,
+授業中に,in class; during the class,授業[じゅぎょう] 中[ちゅう]に,16,exp,,,,,,,,,,,,
+ほかの,other,ほかの,16,exp,,,,,,,,,,,,
+お客さん,guest; visitor; client; customer,お 客[きゃく]さん,17,n,,,,,,,,,,,,
+男,man,男[おとこ],17,n,,,,,,,,,,,,
+お湯,hot water,お 湯[ゆ],17,n,,,,,,,,,,,,
+女,woman,女[おんな],17,n,,,,,,,,,,,,
+かぎ,key,かぎ,17,n,,,,,,,,,,,,
+紙,paper,紙[かみ],17,n,,,,,,,,,,,,
+給料,salary,給料[きゅうりょう],17,n,,,,,,,,,,,,
+コンタクト,contact lenses,コンタクト,17,n,,,,,,,,,,,,
+最低,the lowest; the worst,最低[さいてい],17,n,,,,,,,,,,,,
+サラリーマン,salaryman; company employee,サラリーマン,17,n,,,,,,,,,,,,
+残業,overtime work,残業[ざんぎょう],17,n,,,,,,,,,,,,
+ストーブ,heater,ストーブ,17,n,,,,,,,,,,,,
+宝くじ,lottery,宝[たから]くじ,17,n,,,,,,,,,,,,
+違い,difference,違[ちが]い,17,n,,,,,,,,,,,,
+ニュース,news,ニュース,17,n,,,,,,,,,,,,
+ひげ,beard,ひげ,17,n,,,,,,,,,,,,
+秘密,secret,秘密[ひみつ],17,n,,,,,,,,,,,,
+寮,dormitory,寮[りょう],17,n,,,,,,,,,,,,
+旅行会社,travel agency,旅行[りょこう] 会社[かいしゃ],17,n,,,,,,,,,,,,
+うらやましい,envious,うらやましい,17,adj,,,,,,,,,,,,
+少ない,a little; a few,少[すく]ない,17,adj,,,,,,,,,,,,
+強い,strong,強[つよ]い,17,adj,,,,,,,,,,,,
+選ぶ,to choose; to select,選[えら]ぶ,17,v,,,,,,,,,,,,
+髪をとかす,to comb one's hair,髪[かみ]をとかす,17,v,,,,,,,,,,,,
+お湯を沸かす,to boil water,お 湯[ゆ]を 沸[わ]かす,17,v,,,,,,,,,,,,
+込む,to get crowded,込[こ]む,17,v,,,,,,,,,,,,
+宝くじに当たる,to win a lottery,宝[たから]くじに 当[あ]たる,17,v,,,,,,,,,,,,
+脱ぐ,to take off (clothes),脱[ぬ]ぐ,17,v,,,,,,,,,,,,
+ひげをそる,to shave one's beard,ひげをそる,17,v,,,,,,,,,,,,
+いれる,"to make tea, coffee, etc.",いれる,17,v,,,,,,,,,,,,
+かぎをかける,to lock,かぎをかける,17,v,,,,,,,,,,,,
+足りる,to be sufficient; to be enough,足[た]りる,17,v,,,,,,,,,,,,
+慣れる,to get used to...,慣[な]れる,17,v,,,,,,,,,,,,
+化粧する,to put makeup on,化粧[けしょう]する,17,v,,,,,,,,,,,,
+就職する,to get a full-time job (at...),就職[しゅうしょく]する,17,v,,,,,,,,,,,,
+離婚する,to get a divorce,離婚[りこん]する,17,v,,,,,,,,,,,,
+おめでとうございます,Congratulations!,おめでとうございます,17,exp,,,,,,,,,,,,
+自分,oneself,自分[じぶん],17,exp,,,,,,,,,,,,
+ずいぶん,very,ずいぶん,17,exp,,,,,,,,,,,,
+そうか,I see. (casual),そうか,17,exp,,,,,,,,,,,,
+それに,"moreover, ...",それに,17,exp,,,,,,,,,,,,
+例えば,for example,例[たと]えば,17,exp,,,,,,,,,,,,
+〜に比べて,compared with ...,〜に 比[くら]べて,17,exp,,,,,,,,,,,,
+〜によると,according to ...,〜によると,17,exp,,,,,,,,,,,,
+やっぱり,after all,やっぱり,17,exp,,,,,,,,,,,,
+エアコン,air conditioner,エアコン,18,n,,,,,,,,,,,,
+牛乳,milk,牛乳[ぎゅうにゅう],18,n,,,,,,,,,,,,
+シャンプー,shampoo,シャンプー,18,n,,,,,,,,,,,,
+スイッチ,switch,スイッチ,18,n,,,,,,,,,,,,
+スカート,skirt,スカート,18,n,,,,,,,,,,,,
+しょう油,soy sauce,しょう 油[ゆ],18,n,,,,,,,,,,,,
+外,outside,外[そと],18,n,,,,,,,,,,,,
+タオル,towel,タオル,18,n,,,,,,,,,,,,
+日記,diary,日記[にっき],18,n,,,,,,,,,,,,
+ポップコーン,popcorn,ポップコーン,18,n,,,,,,,,,,,,
+家賃,rent,家賃[やちん],18,n,,,,,,,,,,,,
+夕方,evening,夕方[ゆうがた],18,n,,,,,,,,,,,,
+ラジカセ,cassette player with a radio,ラジカセ,18,n,,,,,,,,,,,,
+留守番電話,answering machine,留守番[るすばん] 電話[でんわ],18,n,,,,,,,,,,,,
+冷蔵庫,refrigerator,冷蔵庫[れいぞうこ],18,n,,,,,,,,,,,,
+ろうそく,candle,ろうそく,18,n,,,,,,,,,,,,
+明るい,bright,明[あか]るい,18,adj,,,,,,,,,,,,
+気分が悪い,to feel sick,気分[きぶん]が 悪[わる]い,18,adj,,,,,,,,,,,,
+恥ずかしい,embarassing; to feel embarassed,恥[は]ずかしい,18,adj,,,,,,,,,,,,
+開く,(something) opens,開[ひら]く,18,v,,,,,,,,,,,,
+謝る,to apologize,謝[あやま]る,18,v,,,,,,,,,,,,
+押す,to press; to push,押[お]す,18,v,,,,,,,,,,,,
+落とす,to drop (something),落[お]とす,18,v,,,,,,,,,,,,
+お湯が沸く,water boils,お 湯[ゆ]が 沸[わ]く,18,v,,,,,,,,,,,,
+転ぶ,to fall down,転[ころ]ぶ,18,v,,,,,,,,,,,,
+壊す,to break (something),壊[こわ]す,18,v,,,,,,,,,,,,
+咲く,to bloom,咲[さ]く,18,v,,,,,,,,,,,,
+閉まる,(something) closes,閉[し]まる,18,v,,,,,,,,,,,,
+助かる,to be saved; to be helped,助[たす]かる,18,v,,,,,,,,,,,,
+頼む,to ask (a favor),頼[たの]む,18,v,,,,,,,,,,,,
+つく,(something) turns on,つく,18,v,,,,,,,,,,,,
+汚す,to make dirty,汚[けが]す,18,v,,,,,,,,,,,,
+落ちる,(something) drops,落[お]ちる,18,v,,,,,,,,,,,,
+考える,to think (about); to consider,考[かんが]える,18,v,,,,,,,,,,,,
+消える,(something) goes off,消[き]える,18,v,,,,,,,,,,,,
+壊れる,(something) breaks,壊[こわ]れる,18,v,,,,,,,,,,,,
+汚れる,to become dirty,汚[よご]れる,18,v,,,,,,,,,,,,
+注文する,to place an order,注文[ちゅうもん]する,18,v,,,,,,,,,,,,
+今すぐ,right away,今[いま]すぐ,18,exp,,,,,,,,,,,,
+おかげで,thanks to ...,おかげで,18,exp,,,,,,,,,,,,
+お先に失礼します,"See you. (lit., I'm leaving ahead of you.)",お 先[さき]に 失礼[しつれい]します,18,exp,,,,,,,,,,,,
+お疲れ様でした,You must be tired after working so hard. (ritualistic expression),お 疲れ様[つかれさま]でした,18,exp,,,,,,,,,,,,
+本当に,really,本当[ほんとう]に,18,exp,,,,,,,,,,,,
+まず,first of all,まず,18,exp,,,,,,,,,,,,
+〜までに,by (time/date),〜までに,18,exp,,,,,,,,,,,,
+どうしよう,What should I/we do?,どうしよう,18,exp,,,,,,,,,,,,
+奥様,(your/his) wife (polite),奥様[おくさま],19,n,,,,,,,,,,,,
+お礼,expression of gratitude,お 礼[れい],19,n,,,,,,,,,,,,
+敬語,honorific language,敬語[けいご],19,n,,,,,,,,,,,,
+出張,business trip,出張[しゅっちょう],19,n,,,,,,,,,,,,
+こちら,this way (polite); this person (polite),こちら,19,n,,,,,,,,,,,,
+種類,a kind; a sort,種類[しゅるい],19,n,,,,,,,,,,,,
+性格,personality,性格[せいかく],19,n,,,,,,,,,,,,
+中学生,junior high school student,中学生[ちゅうがくせい],19,n,,,,,,,,,,,,
+怠け者,lazy person,怠け者[なまけもの],19,n,,,,,,,,,,,,
+悩み,worry,悩[なや]み,19,n,,,,,,,,,,,,
+話,chat; talk,話[はなし],19,n,,,,,,,,,,,,
+恥ずかしがり屋,shy person,恥[は]ずかしがり 屋[や],19,n,,,,,,,,,,,,
+部長,department manager,部長[ぶちょう],19,n,,,,,,,,,,,,
+文化,culture,文化[ぶんか],19,n,,,,,,,,,,,,
+間違い,mistake,間違[まちが]い,19,n,,,,,,,,,,,,
+仲がいい,be on good/close terms; to get along well,仲[なか]がいい,19,adj,,,,,,,,,,,,
+まじめ,serious; sober; diligent,まじめ,19,adj,,,,,,,,,,,,
+いらっしゃる,"honorific expression for いく, くる, and いる",いらっしゃる,19,v,,,,,,,,,,,,
+怒る,to get angry,怒[おこ]る,19,v,,,,,,,,,,,,
+おっしゃる,honorific expression for いう,おっしゃる,19,v,,,,,,,,,,,,
+お休みになる,honorific expression for ねる,お 休[やす]みになる,19,v,,,,,,,,,,,,
+決まる,to be decided,決[き]まる,19,v,,,,,,,,,,,,
+下さる,honorific expression for くれる,下[くだ]さる,19,v,,,,,,,,,,,,
+ご覧になる,honorific expression for みる,ご 覧[らん]になる,19,v,,,,,,,,,,,,
+知り合う,to get aquainted with,知り合[しりあ]う,19,v,,,,,,,,,,,,
+〜ていらっしゃる,honorific expression for 〜ている,〜ていらっしゃる,19,v,,,,,,,,,,,,
+なさる,honorific expression for する,なさる,19,v,,,,,,,,,,,,
+引っ越す,to move (to another place to live),引っ越[ひっこ]す,19,v,,,,,,,,,,,,
+召し上がる,honorific expression for たべる and のむ,召し上[めしあ]がる,19,v,,,,,,,,,,,,
+呼ぶ,to call (one's name); to invite,呼[よ]ぶ,19,v,,,,,,,,,,,,
+寄る,to stop by,寄[よ]る,19,v,,,,,,,,,,,,
+遅れる,to become late,遅[おく]れる,19,v,,,,,,,,,,,,
+かける,to sit down,かける,19,v,,,,,,,,,,,,
+晴れる,to become sunny,晴[は]れる,19,v,,,,,,,,,,,,
+もてる,to be popular (in terms of romantic interest),もてる,19,v,,,,,,,,,,,,
+遠慮する,to hold back for the time being; to refrain from,遠慮[えんりょ]する,19,v,,,,,,,,,,,,
+ごちそうする,to treat/invite (someone) to a meal,ごちそうする,19,v,,,,,,,,,,,,
+招待する,to invite someone (to an event/a place),招待[しょうたい]する,19,v,,,,,,,,,,,,
+注意する,to watch out; to give warning,注意[ちゅうい]する,19,v,,,,,,,,,,,,
+話をする,to have a talk,話[はなし]をする,19,v,,,,,,,,,,,,
+なぜ,why (=どうして),なぜ,19,exp,,,,,,,,,,,,
+本当は,in fact; originally,本当[ほんとう]は,19,exp,,,,,,,,,,,,
+毎朝,every morning,毎朝[まいあさ],19,exp,,,,,,,,,,,,
+まだ,still,まだ,19,exp,,,,,,,,,,,,
+〜名様,party of ... people,〜 名[めい] 様[さま],19,exp,,,,,,,,,,,,
+ようこそ,Welcome.,ようこそ,19,exp,,,,,,,,,,,,
+よろしくお伝えください,Please give my best regards (to ...),よろしくお 伝[つた]えください,19,exp,,,,,,,,,,,,
+あちら,this way (polite),あちら,20,n,,,,,,,,,,,,
+宇宙人,space alien,宇宙[うちゅう] 人[じん],20,n,,,,,,,,,,,,
+音,sound,音[おと],20,n,,,,,,,,,,,,
+係の者,our person in charge,係[かかり]の 者[もの],20,n,,,,,,,,,,,,
+神様,God,神様[かみさま],20,n,,,,,,,,,,,,
+空港,airport,空港[くうこう],20,n,,,,,,,,,,,,
+字,letter; character,字[じ],20,n,,,,,,,,,,,,
+支店,branch office,支店[してん],20,n,,,,,,,,,,,,
+趣味,hobby; pastime,趣味[しゅみ],20,n,,,,,,,,,,,,
+小説,novel,小説[しょうせつ],20,n,,,,,,,,,,,,
+スニーカー,sneakers,スニーカー,20,n,,,,,,,,,,,,
+扇子,fan,扇子[せんす],20,n,,,,,,,,,,,,
+月,moon,月[つき],20,n,,,,,,,,,,,,
+ハイヒール,high heels,ハイヒール,20,n,,,,,,,,,,,,
+重い,heavy; serious (illness),重[おも]い,20,adj,,,,,,,,,,,,
+歩く,to walk,歩[ある]く,20,adj,,,,,,,,,,,,
+致す,extra-modest expression for する,致[いた]す,20,v,,,,,,,,,,,,
+頂く,extra-modest expression for たべる and のむ,頂[いただ]く,20,v,,,,,,,,,,,,
+頂く(もらう),humble expression for もらう,頂[いただ]く(もらう),20,v,,,,,,,,,,,,
+伺う,to humbly visit; to humbly ask,伺[うかが]う,20,v,,,,,,,,,,,,
+おる,extra-modest expression for いる,おる,20,v,,,,,,,,,,,,
+ござる,extra-modest expression for ある,ござる,20,v,,,,,,,,,,,,
+〜ておる,extra-modest expression for 〜ている,〜ておる,20,v,,,,,,,,,,,,
+〜でござる,extra-modest expression for です,〜でござる,20,v,,,,,,,,,,,,
+参る,extra-modest expression for いく and くる,参[まい]る,20,v,,,,,,,,,,,,
+申す,extra-modest expression for いう,申[もう]す,20,v,,,,,,,,,,,,
+戻る,to return; to come back,戻[もど]る,20,v,,,,,,,,,,,,
+聞こえる,to be audible,聞[き]こえる,20,v,,,,,,,,,,,,
+差し上げる,humble expression for あげる,差し上[さしあ]げる,20,v,,,,,,,,,,,,
+伝える,to convey (message),伝[つた]える,20,v,,,,,,,,,,,,
+待たせる,to keep (someone) waiting,待[ま]たせる,20,v,,,,,,,,,,,,
+交換する,to exchange,交換[こうかん]する,20,v,,,,,,,,,,,,
+生活する,to lead a life,生活[せいかつ]する,20,v,,,,,,,,,,,,
+返品する,to return (merchandise),返品[へんぴん]する,20,v,,,,,,,,,,,,
+おや,Oh!,おや,20,exp,,,,,,,,,,,,
+〜階,...th floor,〜 階[かい],20,exp,,,,,,,,,,,,
+かしこまりました,Certainly.,かしこまりました,20,exp,,,,,,,,,,,,
+さあ,"I am not sure, ...",さあ,20,exp,,,,,,,,,,,,
+失礼しました,I'm very sorry,失礼[しつれい]しました,20,exp,,,,,,,,,,,,
+少々,a few seconds,少々[しょうしょう],20,exp,,,,,,,,,,,,
+それでは,"if that is the case, ...",それでは,20,exp,,,,,,,,,,,,
+できれば,if possible,できれば,20,exp,,,,,,,,,,,,
+誠に,really (very polite),誠[まこと]に,20,exp,,,,,,,,,,,,
+また,again,また,20,exp,,,,,,,,,,,,
+申し訳ありません,You have my apologies.,申し訳[もうしわけ]ありません,20,exp,,,,,,,,,,,,
+よろしかったら,if it is okay (polite),よろしかったら,20,exp,,,,,,,,,,,,
+赤ちゃん,baby,赤[あか]ちゃん,21,n,,,,,,,,,,,,
+蚊,mosquito,蚊[か],21,n,,,,,,,,,,,,
+会議,business meeting; conference,会議[かいぎ],21,n,,,,,,,,,,,,
+ガソリン,gasoline,ガソリン,21,n,,,,,,,,,,,,
+環境,environment,環境[かんきょう],21,n,,,,,,,,,,,,
+警察,police; police station,警察[けいさつ],21,n,,,,,,,,,,,,
+工場,factory,工場[こうじょう],21,n,,,,,,,,,,,,
+事,things; matters,事[こと],21,n,,,,,,,,,,,,
+スピーチ,speech,スピーチ,21,n,,,,,,,,,,,,
+政府,government,政府[せいふ],21,n,,,,,,,,,,,,
+ちかん,sexual offender; lascivious man,ちかん,21,n,,,,,,,,,,,,
+泥棒,burgular,泥棒[どろぼう],21,n,,,,,,,,,,,,
+バイト,abbreviation of アルバイト,バイト,21,n,,,,,,,,,,,,
+犯人,criminal,犯人[はんにん],21,n,,,,,,,,,,,,
+ポスター,poster,ポスター,21,n,,,,,,,,,,,,
+昔,old days; past,昔[むかし],21,n,,,,,,,,,,,,
+文句,complaint,文句[もんく],21,n,,,,,,,,,,,,
+留守,absence; not at home,留守[るす],21,n,,,,,,,,,,,,
+遠い,far (away),遠[とお]い,21,adj,,,,,,,,,,,,
+ひどい,awful,ひどい,21,adj,,,,,,,,,,,,
+安全,safe,安全[あんぜん],21,adj,,,,,,,,,,,,
+大切,precious; valuable,大切[たいせつ],21,adj,,,,,,,,,,,,
+めちゃくちゃ,messy; disorganized,めちゃくちゃ,21,adj,,,,,,,,,,,,
+置く,to put; to lay; to place,置[お]く,21,v,,,,,,,,,,,,
+気が付く,to notice,気[き]が 付[つ]く,21,v,,,,,,,,,,,,
+ける,to kick,ける,21,v,,,,,,,,,,,,
+刺す,to sting; to bite (bug); to stab,刺[さ]す,21,v,,,,,,,,,,,,
+触る,to touch,触[さわ]る,21,v,,,,,,,,,,,,
+捕まる,to be arrested; to be caught,捕[つか]まる,21,v,,,,,,,,,,,,
+包む,to wrap; to cover,包[つつ]む,21,v,,,,,,,,,,,,
+殴る,to strike; to hit; to punch,殴[なぐ]る,21,v,,,,,,,,,,,,
+盗む,to steal; to rob,盗[ぬす]む,21,v,,,,,,,,,,,,
+貼る,to post,貼[は]る,21,v,,,,,,,,,,,,
+踏む,to step on,踏[ふ]む,21,v,,,,,,,,,,,,
+ふる,to turn down (somebody); to reject; to jilt,ふる,21,v,,,,,,,,,,,,
+文句を言う,to complain,文句[もんく]を 言[い]う,21,v,,,,,,,,,,,,
+焼く,to bake,焼[や]く,21,v,,,,,,,,,,,,
+いじめる,to bully,いじめる,21,v,,,,,,,,,,,,
+着替える,to change clothes,着替[きが]える,21,v,,,,,,,,,,,,
+ためる,to save money,ためる,21,v,,,,,,,,,,,,
+つづける,to continue,つづける,21,v,,,,,,,,,,,,
+ほめる,to praise; to say nice things,ほめる,21,v,,,,,,,,,,,,
+間違える,to make a mistake,間違[まちが]える,21,v,,,,,,,,,,,,
+見つける,to find,見[み]つける,21,v,,,,,,,,,,,,
+準備する,to prepare,準備[じゅんび]する,21,v,,,,,,,,,,,,
+ばかにする,to insult; to make a fool of ...,ばかにする,21,v,,,,,,,,,,,,
+びっくりする,to be surprised,びっくりする,21,v,,,,,,,,,,,,
+昼寝をする,to take a nap,昼寝[ひるね]をする,21,v,,,,,,,,,,,,
+連絡する,to contact,連絡[れんらく]する,21,v,,,,,,,,,,,,
+〜間に,while...,〜 間[かん]に,21,exp,,,,,,,,,,,,
+ころ,time of...; when...,ころ,21,exp,,,,,,,,,,,,
+少し,a little,少[すこ]し,21,exp,,,,,,,,,,,,
+とにかく,anyhow; anyway,とにかく,21,exp,,,,,,,,,,,,
+同僚,colleague,同僚[どうりょう],21,exp,,,,,,,,,,,,
+相手,partner,相手[あいて],22,n,,,,,,,,,,,,
+受付,reception desk,受付[うけつけ],22,n,,,,,,,,,,,,
+英会話,English conversation,英会話[えいかいわ],22,n,,,,,,,,,,,,
+お嬢さん,(someone's) daughter (polite),お 嬢[じょう]さん,22,n,,,,,,,,,,,,
+家事,household matters,家事[かじ],22,n,,,,,,,,,,,,
+木,tree,木[き],22,n,,,,,,,,,,,,
+期末試験,final examination,期末[きまつ] 試験[しけん],22,n,,,,,,,,,,,,
+後輩,junior members of a group,後輩[こうはい],22,n,,,,,,,,,,,,
+猿,monkey,猿[さる],22,n,,,,,,,,,,,,
+自由,freedom,自由[じゆう],22,n,,,,,,,,,,,,
+塾,cram school,塾[じゅく],22,n,,,,,,,,,,,,
+書類,document,書類[しょるい],22,n,,,,,,,,,,,,
+先輩,senior members of a group,先輩[せんぱい],22,n,,,,,,,,,,,,
+一人暮らし,living alone,一人暮[ひとりぐ]らし,22,n,,,,,,,,,,,,
+部下,subordinate,部下[ぶか],22,n,,,,,,,,,,,,
+復習,review of lessons,復習[ふくしゅう],22,n,,,,,,,,,,,,
+プロジェクト,project,プロジェクト,22,n,,,,,,,,,,,,
+ボール,ball,ボール,22,n,,,,,,,,,,,,
+無駄遣い,waste (money),無駄遣[むだづか]い,22,n,,,,,,,,,,,,
+免許,license,免許[めんきょ],22,n,,,,,,,,,,,,
+予習,preparation of lessons,予習[よしゅう],22,n,,,,,,,,,,,,
+うるさい,noisy; annoying,うるさい,22,adj,,,,,,,,,,,,
+心配,worried about,心配[しんぱい],22,adj,,,,,,,,,,,,
+貧乏,poor,貧乏[びんぼう],22,adj,,,,,,,,,,,,
+ペラペラ,fluent,ペラペラ,22,adj,,,,,,,,,,,,
+変,strange; unusual,変[へん],22,adj,,,,,,,,,,,,
+楽,easy; comfortable,楽[らく],22,adj,,,,,,,,,,,,
+勝つ,to win,勝[か]つ,22,v,,,,,,,,,,,,
+コピーを取る,to make a photocopy,コピーを 取[と]る,22,v,,,,,,,,,,,,
+運ぶ,to carry from one place to another; transport,運[はこ]ぶ,22,v,,,,,,,,,,,,
+走る,to run,走[はし]る,22,v,,,,,,,,,,,,
+拾う,to pick up (something),拾[ひろ]う,22,v,,,,,,,,,,,,
+吹く,to blow,吹[ふ]く,22,v,,,,,,,,,,,,
+放っておく,to leave (someone/something) alone; to neglect,放[はな]っておく,22,v,,,,,,,,,,,,
+間に合う,to be in time for,間に合[まにあ]う,22,v,,,,,,,,,,,,
+迎えに行く,to go to pick up (someone),迎[むか]えに 行[い]く,22,v,,,,,,,,,,,,
+計画を立てる,to make a plan,計画[けいかく]を 立[た]てる,22,v,,,,,,,,,,,,
+育てる,to raise; to bring up,育[そだ]てる,22,v,,,,,,,,,,,,
+助ける,to help; to rescue,助[たす]ける,22,v,,,,,,,,,,,,
+負ける,to lose (a match),負[ま]ける,22,v,,,,,,,,,,,,
+お願いする,to pray for help,お 願[ねが]いする,22,v,,,,,,,,,,,,
+賛成する,to agree,賛成[さんせい]する,22,v,,,,,,,,,,,,
+失敗する,to fail; to be unsuccessful,失敗[しっぱい]する,22,v,,,,,,,,,,,,
+徹夜する,to stay up all night,徹夜[てつや]する,22,v,,,,,,,,,,,,
+反対する,to oppose; to object to,反対[はんたい]する,22,v,,,,,,,,,,,,
+翻訳する,to translate,翻訳[ほんやく]する,22,v,,,,,,,,,,,,
+こんなふう,in this way,こんなふう,22,exp,,,,,,,,,,,,
+ずっと,for a long time; all the time,ずっと,22,exp,,,,,,,,,,,,
+絶対に,definitely,絶対[ぜったい]に,22,exp,,,,,,,,,,,,
+そんなことはない,I don't think so.,そんなことはない,22,exp,,,,,,,,,,,,
+〜とか,...for example,〜とか,22,exp,,,,,,,,,,,,
+何度も,many times,何[なん] 度[ど]も,22,exp,,,,,,,,,,,,
+のんびり,in a leisurely way,のんびり,22,exp,,,,,,,,,,,,
+もう少し,a little more,もう 少[すこ]し,22,exp,,,,,,,,,,,,
+思い出,memory,思い出[おもいで],23,n,,,,,,,,,,,,
+海外旅行,trip to a foreign country,海外[かいがい] 旅行[りょこう],23,n,,,,,,,,,,,,
+体,body,体[からだ],23,n,,,,,,,,,,,,
+靴下,socks,靴下[くつした],23,n,,,,,,,,,,,,
+国際電話,international call,国際[こくさい] 電話[でんわ],23,n,,,,,,,,,,,,
+授業料,tuition,授業[じゅぎょう] 料[りょう],23,n,,,,,,,,,,,,
+小学校,elementary school,小学校[しょうがっこう],23,n,,,,,,,,,,,,
+選挙,election,選挙[せんきょ],23,n,,,,,,,,,,,,
+タイヤ,tire,タイヤ,23,n,,,,,,,,,,,,
+ただ,free of charge,ただ,23,n,,,,,,,,,,,,
+場所,place,場所[ばしょ],23,n,,,,,,,,,,,,
+別荘,villa; vacation home,別荘[べっそう],23,n,,,,,,,,,,,,
+ボーナス,bonus,ボーナス,23,n,,,,,,,,,,,,
+盆踊り,Bon dance (Japanese traditional dance),盆踊[ぼんおど]り,23,n,,,,,,,,,,,,
+面接,interview,面接[めんせつ],23,n,,,,,,,,,,,,
+夕食,dinner,夕食[ゆうしょく],23,n,,,,,,,,,,,,
+理想,ideal,理想[りそう],23,n,,,,,,,,,,,,
+留守番,looking after a house during one's absence,留守番[るすばん],23,n,,,,,,,,,,,,
+まずい,(food is) terrible,まずい,23,adj,,,,,,,,,,,,
+雨がやむ,the rain stops,雨[あめ]がやむ,23,v,,,,,,,,,,,,
+いなくなる,(someone) is gone; to disappear,いなくなる,23,v,,,,,,,,,,,,
+お世話になる,to be in someone's care,お 世話[せわ]になる,23,v,,,,,,,,,,,,
+おなかをこわす,to have a stomachache,おなかをこわす,23,v,,,,,,,,,,,,
+違う,to be different; wrong,違[ちが]う,23,v,,,,,,,,,,,,
+なくなる,to be lost; to disappear,なくなる,23,v,,,,,,,,,,,,
+悪口を言う,to talk behind someone's back,悪口[わるぐち]を 言[い]う,23,v,,,,,,,,,,,,
+受ける,"to take (an examination, interview, etc.)",受[う]ける,23,v,,,,,,,,,,,,
+換える,to change,換[か]える,23,v,,,,,,,,,,,,
+離れる,(something/someone) separates; parts from,離[はな]れる,23,v,,,,,,,,,,,,
+〜顔をする,to look ...(facial expression),〜 顔[がお]をする,23,v,,,,,,,,,,,,
+がっかりする,to be disappointed,がっかりする,23,v,,,,,,,,,,,,
+我慢する,to be tolerant/patient,我慢[がまん]する,23,v,,,,,,,,,,,,
+世話をする,to take care of ...,世話[せわ]をする,23,v,,,,,,,,,,,,
+同情する,to sympathize,同情[どうじょう]する,23,v,,,,,,,,,,,,
+パンクする,(tire) goes flat,パンクする,23,v,,,,,,,,,,,,
+戻ってくる,(something/someone) comes back,戻[もど]ってくる,23,v,,,,,,,,,,,,
+優勝する,to win a championship,優勝[ゆうしょう]する,23,v,,,,,,,,,,,,
+いや,no,いや,23,exp,,,,,,,,,,,,
+元気でね,Take care of yourself.,元気[げんき]でね,23,exp,,,,,,,,,,,,
+そうそう,You are right.,そうそう,23,exp,,,,,,,,,,,,
+そろそろ,it is about time to ...,そろそろ,23,exp,,,,,,,,,,,,
+そんな〜,such ...; that kind of ...,そんな〜,23,exp,,,,,,,,,,,,
+ものすごく,extremely,ものすごく,23,exp,,,,,,,,,,,,

@@ -27,6 +27,7 @@ urlpatterns = [
     path('aboutme/',views.ReactAppView.as_view(),name='test'),
     path('contact/',views.ReactAppView.as_view(),name='test'),
     path('equities/',include('equities.urls')),
+    path('nihongo/',include('nihongo.urls')),
     path('admin/', admin.site.urls),
 ]
 

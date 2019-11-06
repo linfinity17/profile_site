@@ -1,0 +1,48 @@
+{% extends "nihongo/layout.html" %}
+
+{% block content %}
+<div class="main_container">
+
+	<div class="grammar">
+		{{grammar_selection.0}}
+	</div>
+
+	<div class="nouns">
+		<span class="heading"> Nouns </span> 
+		{% for item in nouns_selection %}
+		<input type="checkbox" id="noun_{{forloop.counter}}"> <span title='{{item.kana_reading}} {{item.meaning}}'>{{ item.kanji }}</span>
+		<br>
+		{% endfor %}
+	</div>
+
+	<div class="adjectives">
+		<span class="heading"> Adjectives </span>
+		{% for item in adjectives_selection %}
+		<input type="checkbox" id="adjectives_{{forloop.counter}}"> <span title='{{item.kana_reading}} {{item.meaning}}'>{{ item.kanji }}</span>
+		<br>
+		{% endfor %}
+	</div>
+
+	<div class="verbs">
+		<span class="heading"> Verbs </span>
+		{% for item in verbs_selection %}
+		<input type="checkbox" id="verbs_{{forloop.counter}}"> <span title='{{item.kana_reading}} {{item.meaning}}'>{{ item.kanji }}</span>
+		<br>
+		{% endfor %}
+	</div>
+
+	<div class="expressions">
+		<span class="heading"> Expressions </span>
+		{% for item in expressions_selection %}
+		<input type="checkbox" id="expressions_{{forloop.counter}}"> <span title='{{item.kana_reading}} {{item.meaning}}'>{{ item.kanji }}</span>
+		<br>
+		{% endfor %}
+	</div>
+
+	<div class="sentence_input">
+		<textarea class="answer"></textarea>		
+		
+	</div>
+
+</div>
+{% endblock %}
