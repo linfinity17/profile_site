@@ -1,0 +1,91 @@
+/* ===================================== 
+   Grid Layout
+======================================== */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  max-width: 800px;
+  font-size: 1.3em;
+  margin: 0;
+  padding: 20px;
+}
+
+.heading{
+  text-decoration: underline;
+  display: block;
+  padding-bottom: 15px;
+}
+
+.main_container {
+  height: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 100px 1fr 1fr 100px;
+  grid-gap: 0;
+  grid-template-areas: 
+    "grammar grammar"
+    "nouns verbs"
+    "adjectives expressions"
+    "sentence_input sentence_input";
+}
+
+.grammar {
+  grid-area: grammar;
+}
+
+.nouns {
+  grid-area: nouns;
+}
+
+.adjectives {
+  grid-area: adjectives;
+}
+
+.verbs {
+  grid-area: verbs;
+}
+
+.expressions {
+  grid-area: expressions;
+}
+
+.sentence_input {
+  grid-area: sentence_input;
+  max-width: 800px;
+}
+
+.answer {
+  height: 100%;
+  width: 60%;
+}
+
+
+/*
+.content-container {
+  width: 100vw;
+  max-width: 1200px;
+  margin: 0 auto;
+  grid-area: main;
+  padding: 3em; 
+}
+
+.footer_nav {
+  grid-area: footer;
+}
+
+@media (max-width: 768px) {
+
+  .main_container {
+    grid-template-rows: minmax(50px,auto) 1fr 50px;
+  }
+
+
+}
+
+
+
+*/
