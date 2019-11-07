@@ -1,6 +1,7 @@
 {% extends "nihongo/layout.html" %}
 
 {% block content %}
+
 <div class="main_container">
 
 	<div class="grammar">
@@ -10,7 +11,7 @@
 	<div class="nouns">
 		<span class="heading"> Nouns </span> 
 		{% for item in nouns_selection %}
-		<input type="checkbox" id="noun_{{forloop.counter}}"> <span title='{{item.kana_reading}} {{item.meaning}}'>{{ item.kanji }}</span>
+		<input type="checkbox" id="noun_{{forloop.counter}}"> <span class="word" title='{{item.kana_reading}} <br> {{item.meaning}}'>{{ item.kanji }}</span>
 		<br>
 		{% endfor %}
 	</div>
@@ -18,7 +19,7 @@
 	<div class="adjectives">
 		<span class="heading"> Adjectives </span>
 		{% for item in adjectives_selection %}
-		<input type="checkbox" id="adjectives_{{forloop.counter}}"> <span title='{{item.kana_reading}} {{item.meaning}}'>{{ item.kanji }}</span>
+		<input type="checkbox" id="adjectives_{{forloop.counter}}"> <span class="word" title='{{item.kana_reading}} <br> {{item.meaning}}'>{{ item.kanji }}</span>
 		<br>
 		{% endfor %}
 	</div>
@@ -26,7 +27,7 @@
 	<div class="verbs">
 		<span class="heading"> Verbs </span>
 		{% for item in verbs_selection %}
-		<input type="checkbox" id="verbs_{{forloop.counter}}"> <span title='{{item.kana_reading}} {{item.meaning}}'>{{ item.kanji }}</span>
+		<input type="checkbox" id="verbs_{{forloop.counter}}"> <span class="word" title='{{item.kana_reading}} <br> {{item.meaning}}'>{{ item.kanji }}</span>
 		<br>
 		{% endfor %}
 	</div>
@@ -34,15 +35,64 @@
 	<div class="expressions">
 		<span class="heading"> Expressions </span>
 		{% for item in expressions_selection %}
-		<input type="checkbox" id="expressions_{{forloop.counter}}"> <span title='{{item.kana_reading}} {{item.meaning}}'>{{ item.kanji }}</span>
+		<input type="checkbox" id="expressions_{{forloop.counter}}"> <span class="word" title='{{item.kana_reading}} <br> {{item.meaning}}'>{{ item.kanji }}</span>
 		<br>
 		{% endfor %}
+	</div>
+
+	<div id="explanation">
+		
 	</div>
 
 	<div class="sentence_input">
 		<textarea class="answer"></textarea>		
 		
 	</div>
+
+	<div id="helpBoxToggle"></div>
+
+<script type="text/javascript">
+	var toggle = document.getElementById("helpBoxToggle").value;
+	var bypass = 0;
+
+
+	function openHelpBox(event) { 
+		document.getElementById("explanation").style.display = "block";
+		var exp = document.getElementById("explanation");
+		exp.style.left = event.clientX + "px";
+		exp.style.top = event.clientY + "px";
+		toggle = 1;
+		bypass = 1;
+		document.getElementById("explanation").innerHTML = event.srcElement.title;
+	}
+
+	function closeHelpBox() {
+		document.getElementById("explanation").style.display = "none";
+		toggle = 0;
+	}
+
+	closeHelpBox();
+
+	var classname = document.getElementsByClassName("word");
+	
+	Array.from(classname).forEach(function(element) {
+		element.addEventListener('click', openHelpBox);
+	});
+
+	window.addEventListener('click', function(e){
+
+		if (document.getElementById('explanation').contains(e.target)){
+			// Clicked in box
+		} else{
+			// Clicked outside the box
+			if (bypass == 1) {
+				bypass = 0;
+			} else {
+				closeHelpBox();
+			}
+		}
+	});
+</script>
 
 </div>
 {% endblock %}

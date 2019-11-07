@@ -63,6 +63,15 @@ body {
   width: 60%;
 }
 
+#explanation {
+  font-family: 'Roboto', sans-serif;
+  position: absolute;
+  left: 100px;
+  background-color: #f9f9f9;
+  box-shadow: 5px 5px 3px #999;
+  padding: 10px;
+}
+
 
 /*
 .content-container {
