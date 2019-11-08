@@ -15,6 +15,7 @@ class Word(models.Model):
 class GrammarPoint(models.Model):
 	grammar_id = models.AutoField(primary_key = True)
 	rule = models.CharField(max_length=255, default='')
+	sample_sentence = models.CharField(max_length=1024, default='')
 
 	def __str__(self):
 		return self.rule

@@ -5,7 +5,7 @@
 <div class="main_container">
 
 	<div class="grammar">
-		{{grammar_selection.0}}
+		<span class="word" title='{{grammar_selection.0.sample_sentence}}'> {{grammar_selection.0}} </span>
 	</div>
 
 	<div class="nouns">
@@ -52,6 +52,15 @@
 	<div id="helpBoxToggle"></div>
 
 <script type="text/javascript">
+	let vh = window.innerHeight * 0.01;
+	document.documentElement.style.setProperty('--vh', `${vh}px`);
+	// We listen to the resize event
+	window.addEventListener('resize', () => {
+	  // We execute the same script as before
+	  let vh = window.innerHeight * 0.01;
+	  document.documentElement.style.setProperty('--vh', `${vh}px`);
+	});
+	
 	var toggle = document.getElementById("helpBoxToggle").value;
 	var bypass = 0;
 

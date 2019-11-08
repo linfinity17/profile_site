@@ -13,10 +13,11 @@ def home(request):
 	adjectives = models.Word.objects.filter(word_type='adj').order_by('word_id')
 	verbs = models.Word.objects.filter(word_type='v').order_by('word_id')
 	expressions = models.Word.objects.filter(word_type='exp').order_by('word_id')
-	nouns_selection = random.sample(list(nouns),5)
+	nouns_selection = random.sample(list(nouns),8)
 	adjectives_selection = random.sample(list(adjectives),5)
-	verbs_selection = random.sample(list(verbs),5)
+	verbs_selection = random.sample(list(verbs),8)
 	expressions_selection = random.sample(list(expressions),5)
+	print(grammar_selection[0].rule)
 	return render(request,'nihongo/home.html',{
 		'grammar_selection':grammar_selection,
 		'nouns_selection':nouns_selection,
