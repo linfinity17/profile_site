@@ -15,8 +15,8 @@ def must_be_empty(value):
 
 class InquiryForm(forms.Form):
 	ticker = forms.ChoiceField(choices=ticker_list)
-	start_date = forms.DateField(widget=forms.SelectDateWidget(empty_label=("Choose Year", "Choose Month", "Choose Day"),years=range(2013,2019)))
-	end_date = forms.DateField(widget=forms.SelectDateWidget(empty_label=("Choose Year", "Choose Month", "Choose Day"),years=range(2013,2019)),initial=datetime.date.today())
+	start_date = forms.DateField(widget=forms.SelectDateWidget(empty_label=("Choose Year", "Choose Month", "Choose Day"),years=range(2013,2020)))
+	end_date = forms.DateField(widget=forms.SelectDateWidget(empty_label=("Choose Year", "Choose Month", "Choose Day"),years=range(2013,2020)),initial=datetime.date.today())
 	honeypot = forms.CharField(required=False, widget=forms.HiddenInput, label="Leave empty",validators=[must_be_empty])
 
 class CompareForm(forms.Form):
@@ -25,8 +25,8 @@ class CompareForm(forms.Form):
 	stock_3 = forms.ChoiceField(choices=ticker_list,required=False)
 	stock_4 = forms.ChoiceField(choices=ticker_list,required=False)
 	stock_5 = forms.ChoiceField(choices=ticker_list,required=False)
-	start_date = forms.DateField(widget=forms.SelectDateWidget(empty_label=("Choose Year", "Choose Month", "Choose Day"),years=range(2013,2019)))
-	end_date = forms.DateField(widget=forms.SelectDateWidget(empty_label=("Choose Year", "Choose Month", "Choose Day"),years=range(2013,2019)),initial=datetime.date.today())
+	start_date = forms.DateField(widget=forms.SelectDateWidget(empty_label=("Choose Year", "Choose Month", "Choose Day"),years=range(2013,2020)))
+	end_date = forms.DateField(widget=forms.SelectDateWidget(empty_label=("Choose Year", "Choose Month", "Choose Day"),years=range(2013,2020)),initial=datetime.date.today())
 
 
 

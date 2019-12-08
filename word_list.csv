@@ -31,7 +31,7 @@
 迷惑をかける,"to cause trouble, to annoy",めいわくをかける,W-1,v
 一人暮らし,live alone,ひとりぐらし,W-2,exp
 嘘をつく,to lie,うそをつく,W-2,v
-始発（電車）,first train,しはつ（でんしゃ）,W-2,n
+始発(電車) ,first train,しはつ（でんしゃ）,W-2,n
 告白する,to confess (one's love),こくはくする,W-2,v
 サボる,"to play hooky, to skip school",-,W-2,v
 大げんかする,"to quarrel, to have a big fight",おおげんかする,W-2,v
@@ -63,7 +63,7 @@
 悔しい,"regrettable, vexing",くやしい,W-2,adj
 一生懸命,"very hard, with all one's might",いっしょうけんめい,W-2,exp
 決まる,"to be decided, to be settled",きまる,W-2,v
-（面接を）受ける,"to be interviewed, to go to an interview",（めんせつを）うける,W-2,v
+(面接を) 受ける,"to be interviewed, to go to an interview",（めんせつを）うける,W-2,v
 緊張する,to be nervous,きんちょうする,W-2,v
 以前,"ago, sense, before, previous",いぜん,W-2,exp
 びっくりする,"to be surprised, to become surprised",-,W-2,v
@@ -86,8 +86,8 @@
 けが,injury,-,W-3,n
 台風,"typhoon, hurricane",たいふう,W-3,n
 洪水,flood,こうずい,W-3,n
-（病気に）なる,to become (ill),（びょうきに）なる,W-3,v
-（事故に）遭う,"to have an accident, to meet with an accident",（じこに）あう,W-3,v
+(病気に) なる,to become (ill),（びょうきに）なる,W-3,v
+(事故に) 遭う,"to have an accident, to meet with an accident",（じこに）あう,W-3,v
 起きる,"to happen, to occur",おきる,W-3,v
 足りる,"to be sufficient, to be enough",たりる,W-3,v
 慣れる,"to grow accustomed to, to get familiar with",なれる,W-3,v
@@ -112,9 +112,9 @@
 必ず,"always, without exception",かならず,W-4,exp
 お土産,"souvenir, present",おみやげ,W-4,n
 北,north,きた,W-4,n
-（南）,south,みなみ,W-4,n
-（東）,east,ひがし,W-4,n
-（西）,west,にし,W-4,n
+南,south,みなみ,W-4,n
+東,east,ひがし,W-4,n
+西,west,にし,W-4,n
 観光地,tourist spot,かんこうち,W-4,n
 浅草,Asakusa,あさくさ,W-4,n
 お台場,Odaiba,おだいば,W-4,n
@@ -153,9 +153,9 @@
 家具,furniture,かぐ,W-5,n
 ボタン,button,-,W-5,n
 送る,"to send, to dispatch",おくる,W-5,v
-（お金を）下ろす,to withdraw money from one's account,（おかねを）おろす,W-5,v
+(お金を) 下ろす,to withdraw money from one's account,（おかねを）おろす,W-5,v
 捨てる,"to throw away, to cast aside",すてる,W-5,v
-（辞書を）ひく,to use a dictionary,（じしょを）ひく,W-5,v
+(辞書を) ひく,to use a dictionary,（じしょを）ひく,W-5,v
 予約する,"to reserve, make an appointment",よやくする,W-5,v
 記入する,"to fill in forms, to enter",きにゅうする,W-5,v
 組み立てる,"to assemble, to set up, to contruct",くみたてる,W-5,v
@@ -192,17 +192,17 @@
 難しい,difficult,難[むずか]しい,5,adj
 やさしい,easy (problem); kind (person),やさしい,5,adj
 安い,inexpensive; cheap (thing),安[やす]い,5,adj
-嫌い（な）,disgusted with; to dislike,嫌[きら]い（な）,5,adj
-きれい（な）,beautiful; clean,きれい（な）,5,adj
-元気（な）,healthy; energetic,元気[げんき]（な）,5,adj
-静か（な）,quiet,静[しず]か（な）,5,adj
-好き（な）,fond of; to like,好[す]き（な）,5,adj
-大嫌い（な）,to hate,大嫌[だいきら]い（な）,5,adj
-大好き（な）,very fond of; to love,大好[だいす]き（な）,5,adj
-にぎやか（な）,lively,にぎやか（な）,5,adj
-ハンサム（な）,handsome,ハンサム（な）,5,adj
-暇（な）,not busy; to have a lot of free time,暇[ひま]（な）,5,adj
-大変（な）,tough (situation),大変[たいへん]（な）,6,adj
+嫌い(な) ,disgusted with; to dislike,嫌[きら]い（な）,5,adj
+きれい(な) ,beautiful; clean,きれい（な）,5,adj
+元気(な) ,healthy; energetic,元気[げんき]（な）,5,adj
+静か(な) ,quiet,静[しず]か（な）,5,adj
+好き(な) ,fond of; to like,好[す]き（な）,5,adj
+大嫌い(な) ,to hate,大嫌[だいきら]い（な）,5,adj
+大好き(な) ,very fond of; to love,大好[だいす]き（な）,5,adj
+にぎやか(な) ,lively,にぎやか（な）,5,adj
+ハンサム(な) ,handsome,ハンサム（な）,5,adj
+暇(な) ,not busy; to have a lot of free time,暇[ひま]（な）,5,adj
+大変(な) ,tough (situation),大変[たいへん]（な）,6,adj
 頭がいい,bright; smart; clever,頭[あたま]がいい,7,adj
 かっこいい,great-looking,かっこいい,7,adj
 かわいい,cute,かわいい,7,adj
@@ -256,10 +256,10 @@
 厳しい,strict,厳[きび]しい,13,adj
 近い,close; near,近[ちか]い,13,adj
 いろいろ,various; different kinds of,いろいろ（な),13,adj
-幸せ(な）,happy (lasting happiness),幸[しあわ]せ(な）,13,adj
+幸せ(な) ,happy (lasting happiness),幸[しあわ]せ(な）,13,adj
 だめ,no good,だめ,13,adj
 欲しい,to want,欲[ほ]しい,14,adj
-けち（な）,stingy; cheap,けち（な）,14,adj
+けち(な) ,stingy; cheap,けち（な）,14,adj
 広い,spacious; wide,広[ひろ]い,15,adj
 汚い,dirty,汚[きたな]い,16,adj
 うらやましい,envious,うらやましい,17,adj
@@ -284,3 +284,128 @@
 変,strange; unusual,変[へん],22,adj
 楽,easy; comfortable,楽[らく],22,adj
 まずい,(food is) terrible,まずい,23,adj
+声を出す,"to speak, to say",こえをだす,W-6,v
+ジェスチャー,gesture,-,W-6,n
+声をかける,"to greet, to call out",こえをかける,W-6,v
+アドバイスする,to give advice,-,W-6,v
+笑う,"to laugh, to smile",わらう,W-6,v
+怒る,"to get angry, to get mad",おこる,W-6,v
+失敗する,"to fail, to make a mistake",しっぱいする,W-6,v
+勝つ,to win,かつ,W-6,v
+説明,explanation,せつめい,W-6,n
+気がつく,"to notice, to become aware",きがつく,W-6,v
+なあんだ,word said when slightly dissapointed,-,W-6,exp
+しまった,"darn it, oops",-,W-6,exp
+なるほど,"I see, Indeed",-,W-6,exp
+やったー,hooray,-,W-6,exp
+ええ！？,huh!?,-,W-6,exp
+ラッキー,Lucky,-,W-6,exp
+あれ？,eh?,-,W-6,exp
+別れる,to break up (with lover),わかれる,W-6,v
+選ぶ,"to choose, to select",えらぶ,W-7,v
+ポイント,point,-,W-7,n
+デザイン,design,-,W-7,n
+サイズ,size,-,W-7,n
+機能,"function, feature",きのう,W-7,n
+ブランド,brand,-,W-7,n
+気に入る,"to be pleased with, to suit",きにいる,W-7,v
+ボタン,button,-,W-7,n
+押す,to push,おす,W-7,v
+音,"sound, noise",おと,W-7,n
+(音が) 出る,to hear a sound,（おとが）でる,W-7,v
+画面,"scene, picture, screen (TV, computer, etc…)",がめん,W-7,n
+タッチする,to touch,-,W-7,v
+ライト,light,-,W-7,n
+つく,to turn on (i.e. a light),-,W-7,v
+縦,"stand up, set upwards",たて,W-7,n
+横,"lie horizontally, lie sideways",よこ,W-7,n
+拡大する,"to expand, to maginify",かくだいする,W-7,v
+つまみ,"handle, knob",-,W-7,n
+レバー,lever,-,W-7,n
+回す,"to turn, to rotate",まわす,W-7,v
+検索ページ,internet search function,けんさくページ,W-7,n
+出てくる,"to come out, to appear",でてくる,W-7,v
+引く,"to pull, to draw",ひく,W-7,v
+縮小する,to reduce,しゅくしょうする,W-7,v
+開く,to open,ひらく,W-7,v
+閉じる,to close,とじる,W-7,v
+消える,to turn off (i.e. a light),きえる,W-7,v
+画面,"scene, picture, screen (TV, computer, etc…)",がめん,W-7,n
+ズーム,zoom,-,W-7,n
+機能,"function, feature",きのう,W-7,n
+ボタン,button,-,W-7,n
+押す,to push,おす,W-7,v
+拡大する,"to expand, to magnify",かくだいする,W-7,v
+操作,"operation, processing",そうさ,W-7,n
+複雑,"complex, complicated",ふくざつ,W-7,adj
+単語,"word, vocabulary",たんご,W-7,n
+調べる,"to examine, to investigate",しらべる,W-7,v
+文字盤,dial,もじばん,W-7,n
+デザイン,design,-,W-7,n
+気に入る,"to be pleased with, to suit",きにいる,W-7,v
+タッチする,to touch,-,W-7,v
+ライト,light,-,W-7,n
+つく,to turn on (i.e. a light),-,W-7,v
+丈夫,durable,じょうぶ,W-7,n
+持ち運び,"carry, transport",もちはこび,W-7,n
+ポケット,pocket,-,W-7,n
+相手,"companion, opponent",あいて,W-8,n
+冷房,"cooling, air-conditioning",れいぼう,W-8,n
+運ぶ,"to cary, to transport",はこぶ,W-8,v
+くつひも,shoelace,-,W-8,n
+ポケット,pocket,-,W-8,n
+ボタン,button,-,W-8,n
+本棚,bookshelf,ほんだな,W-8,n
+紙袋,paper bag,かみぶくろ,W-8,n
+ひも,"string, cord, lace",-,W-8,n
+落ちる,"to fall down, to drop",おちる,W-8,v
+ほどける,to come untied,-,W-8,v
+とれる,"to come off, to be removed",-,W-8,v
+こぼれる,"to spill, to fall out of",-,W-8,v
+倒れる,"to fall, to fall over",たおれる,W-8,v
+(糸・ひもが) 切れる,"to cut, to break",（いと・ひもが）きれる,W-8,v
+パンフレット,"brochure, pamphlet",-,W-8,n
+会議,"meeting, conference",かいぎ,W-8,n
+部長,head of a department,ぶちょう,W-8,n
+時刻表,"timetable, schedule",じこくひょう,W-8,n
+見てくる,to go and see,みてくる,W-8,v
+聞いてくる,to go and ask,きいてくる,W-8,v
+買ってくる,to go and buy,かってくる,W-8,v
+取ってくる,to go and take,とってくる,W-8,v
+呼んでくる,to go and call,よんでくる,W-8,v
+暖房,heating,だんぼう,W-8,n
+具合が悪い,to not feel well,ぐあいがわるい,W-8,adj
+薬局,"pharmacy, drugstore",やっきょく,W-8,n
+思い出す,"to recall, to remember",おもいだす,W-9,v
+はやる,"to be popular, to come into fashion",-,W-9,v
+算数,arithmetic,さんすう,W-9,n
+地理,geography,ちり,W-9,n
+コメディ,comedy,-,W-9,n
+ままごと,playing house,-,W-9,n
+おにごっこ,game of tag,-,W-9,n
+プラモデル,plastic model,-,W-9,n
+空き地,vacant land,あきち,W-9,n
+人形遊び,"play with dolls, play with puppets",にんぎょうあそび,W-9,n
+美術,"art, fine arts",びじゅつ,W-9,n
+歴史,history,れきし,W-9,n
+体育,"physical education, gymnastics",たいいく,W-9,n
+かくれんぼ,hide and seek,-,W-9,n
+理科,science,りか,W-9,n
+屋上,rooftop,おくじょう,W-9,n
+トランプ,playing cards,-,W-9,n
+～番組,～ program (as in TV),～ばんぐみ,W-9,n
+教科,"subject, curriculum",きょうか,W-9,n
+はやる,"to be popular, to come into fashion",-,W-9,v
+カードｹﾞｰﾑ,card game,-,W-9,n
+集める,to collect,あつめる,W-9,v
+懐かしい,"dear, desired, missed",なつかしい,W-9,adj
+放課後,after school,ほうかご,W-9,n
+ロックバンド,rock band,-,W-9,n
+虫,"insect, bug",むし,W-9,n
+とる,to catch,-,W-9,v
+ショッピングモール,shopping mall,-,W-9,n
+ファーストフード,fast food,-,W-9,n
+コーヒーショップ,coffee shop,-,W-9,n
+ハイキング,hiking,-,W-9,n
+体を動かす,to move your body,からだをうごかす,W-9,v
+最近,"recently, these days",さいきん,W-9,exp
