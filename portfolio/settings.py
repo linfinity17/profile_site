@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '-$wrf8yc$40p60h8yzd!th)gpa18sax=$kpun9$0vxh8%4bqcp'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['127.0.0.1', 'www.inumerable.com', 'inumerable.pythonanywhere.com']
 
