@@ -9,14 +9,16 @@ ticker_list = [('','Select Ticker')]
 for item in models.Stock.objects.values('ticker'):
 	ticker_list.append((item['ticker'],item['ticker']))
 
+latest_date = models.Record.objects.filter(ticker="PSEI").order_by('-tran_date')[0].tran_date
+
 def must_be_empty(value):
 	if value:
 		raise forms.ValidationError('is not empty')
 
 class InquiryForm(forms.Form):
 	ticker = forms.ChoiceField(choices=ticker_list)
-	start_date = forms.DateField(widget=forms.SelectDateWidget(empty_label=("Choose Year", "Choose Month", "Choose Day"),years=range(2013,2020)))
-	end_date = forms.DateField(widget=forms.SelectDateWidget(empty_label=("Choose Year", "Choose Month", "Choose Day"),years=range(2013,2020)),initial=datetime.date.today())
+	start_date = forms.DateField(widget=forms.SelectDateWidget(empty_label=("Choose Year", "Choose Month", "Choose Day"),years=range(2013,latest_date.year + 1)))
+	end_date = forms.DateField(widget=forms.SelectDateWidget(empty_label=("Choose Year", "Choose Month", "Choose Day"),years=range(2013,latest_date.year + 1)),initial=datetime.date.today())
 	honeypot = forms.CharField(required=False, widget=forms.HiddenInput, label="Leave empty",validators=[must_be_empty])
 
 class CompareForm(forms.Form):
@@ -25,8 +27,8 @@ class CompareForm(forms.Form):
 	stock_3 = forms.ChoiceField(choices=ticker_list,required=False)
 	stock_4 = forms.ChoiceField(choices=ticker_list,required=False)
 	stock_5 = forms.ChoiceField(choices=ticker_list,required=False)
-	start_date = forms.DateField(widget=forms.SelectDateWidget(empty_label=("Choose Year", "Choose Month", "Choose Day"),years=range(2013,2020)))
-	end_date = forms.DateField(widget=forms.SelectDateWidget(empty_label=("Choose Year", "Choose Month", "Choose Day"),years=range(2013,2020)),initial=datetime.date.today())
+	start_date = forms.DateField(widget=forms.SelectDateWidget(empty_label=("Choose Year", "Choose Month", "Choose Day"),years=range(2013,latest_date.year + 1)))
+	end_date = forms.DateField(widget=forms.SelectDateWidget(empty_label=("Choose Year", "Choose Month", "Choose Day"),years=range(2013,latest_date.year + 1)),initial=datetime.date.today())
 
 
 
